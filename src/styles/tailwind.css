@@ -1,0 +1,41 @@
+@import 'tailwindcss/base';
+@import './fonts.css';
+@import './docsearch.css';
+@import './prism.css';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+::selection {
+  background-color: #0f766e;
+  color: #fefefe;
+}
+
+/* Remove Safari input shadow on mobile */
+input[type='text'],
+input[type='email'] {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+}
+
+pre::-webkit-scrollbar {
+  display: none;
+}
+
+/* Remove Safari input shadow on mobile */
+input[type='text'],
+input[type='email'] {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+}
+
+p,
+h2,
+h3,
+h4,
+h5,
+li,
+ol {
+  hyphens: auto;
+}
