@@ -38,10 +38,14 @@ Slutligen kan du öppna [http://localhost:3000](http://localhost:3000) för att 
 - [x] Lansera webbplatsen [infosec.gleisner.wiki](https://infosec.gleisner.wiki)
 - [ ] Föra in metodstödet utan bearbetningar
   - [x] Analysera
-  - [ ] Utforma
+  - [x] Utforma
   - [ ] Använda
   - [ ] Följa upp
 - [ ] Bearbeta metodstödet
+  - [ ] Analysera
+  - [ ] Utforma
+  - [ ] Använda
+  - [ ] Följa upp
 - [ ] Klura ut nästa steg 🤨
 
 ## Bidrag

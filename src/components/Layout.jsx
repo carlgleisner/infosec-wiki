@@ -29,9 +29,22 @@ const navigation = [
       { title: 'Gapanalys', href: '/analysera/gapanalys' },
     ],
   },
+
   {
     title: 'Utforma',
-    links: [{ title: '[TBD]', href: '#' }],
+    links: [
+      { title: 'Allmänt', href: '/utforma/allmant' },
+      { title: 'Organisation', href: '/utforma/organisation' },
+      { title: 'Ledning', href: '/utforma/ledning' },
+      { title: 'Mål', href: '/utforma/mal' },
+      { title: 'Styrdokument', href: '/utforma/styrdokument' },
+      { title: 'Riskhantering', href: '/utforma/riskhantering' },
+      { title: 'Klassificering', href: '/utforma/klassificering' },
+      { title: 'Åtgärder', href: '/utforma/atgarder' },
+      { title: 'Handlingsplan', href: '/utforma/handlingsplan' },
+      { title: 'Kontinuitet', href: '/utforma/kontinuitet' },
+      { title: 'Incidenter', href: '/utforma/incidenter' },
+    ],
   },
   {
     title: 'Använda',

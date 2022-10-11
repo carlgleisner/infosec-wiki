@@ -14,7 +14,7 @@ Här finner du en översikt av webbplatsen.{% .lead %}
 
 {% quick-link title="Analysera" icon="analysis" href="/analysera/allmant" description="Arbetet med informationssäkerhet kräver en inledande analys av verksamheten och omvärlden." /%}
 
-{% quick-link title="Utforma" icon="design" href="#" description="När organisationen vet var den står och vart den önskar ta sig måste den utforma det ledningssystem som ska ta den dit." /%}
+{% quick-link title="Utforma" icon="design" href="/utforma/allmant" description="När organisationen vet var den står och vart den önskar ta sig måste den utforma det ledningssystem som ska ta den dit." /%}
 
 {% quick-link title="Använda" icon="use" href="#" description="När ledningssystemet är utformat måste det ges liv och användas i praktiken genom att t.ex. bestämda bedömningar genomförs och dokumenteras." /%}
 

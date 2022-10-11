@@ -1,6 +1,6 @@
 ---
 title: Verksamhetsanalys
-description: Om avsnittet Analysera.
+description: 'Den här vägledningen fokuserar på informationssäkerhetens interna perspektiv. Detta innebär att man analyserar sin verksamhet i tre delar: interna intressenter, interna förutsättningar och informationstillgångar.'
 date: 2022-10-06
 ---
 
@@ -66,13 +66,43 @@ Interna intressenter är personer (befattningar) eller enheter inom er egen orga
 
 Tabell IA2:1:  Exempel på intressenter och krav
 
-| Kategori             | Intressent                                                            | Krav, roll                                                                                                                                          |
-| -------------------- | --------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Beslutsfattare       | Styrelse, ledning; vd/GD; ekonomichef, personalchef                   | Beslutar om och styr över hur ni ska bedriva ert arbete med informations­säkerhet. Krav på kostnadseffektivitet och ändamålsenlighet.               |
-| Objektägare          | Objektägare, processägare, Informationsägare, Systemägare             | Ställer krav gällande informationssäkerhet för objektet eller objekten som de ”äger”. Behöver ofta stöd för att förstå hur de ska ställa sina krav. |
-| Stödenheter          | It-enhet; Personalenhet, fastighetsenhet, registratur, juristfunktion | Är föremål för styrning av informationssäkerhet samt ansvarar för vissa säkerhets­arrangemang.                                                      |
-| Medarbetare          | Anställda; konsulter, praktikanter, medarbetare med speciella roller  | Tar till sig och rättar sig efter regler. Vill kunna arbeta produktivt, oavsett gällande säkerhets­åtgärder.                                        |
-| Informationssäkerhet | CISO, it-säkerhetsansvarig, säkerhetschef, säkerhetskoordinator       | Utformar styrningen av informationssäkerheten och ser till att den på olika sätt implementeras i organisationen.                                    |
+{% table %}
+
+- **Kategori**
+- **Intressent**
+- **Krav, roll**
+
+---
+
+- Beslutsfattare
+- Styrelse, ledning; vd/GD; ekonomichef, personalchef
+- Beslutar om och styr över hur ni ska bedriva ert arbete med informations­säkerhet. Krav på kostnadseffektivitet och ändamålsenlighet.
+
+---
+
+- Objektägare
+- Objektägare, processägare, Informationsägare, Systemägare
+- Ställer krav gällande informationssäkerhet för objektet eller objekten som de ”äger”. Behöver ofta stöd för att förstå hur de ska ställa sina krav.
+
+---
+
+- Stödenheter
+- It-enhet; Personalenhet, fastighetsenhet, registratur, juristfunktion
+- Är föremål för styrning av informationssäkerhet samt ansvarar för vissa säkerhets­arrangemang.
+
+---
+
+- Medarbetare
+- Anställda; konsulter, praktikanter, medarbetare med speciella roller
+- Tar till sig och rättar sig efter regler. Vill kunna arbeta produktivt, oavsett gällande säkerhets­åtgärder.
+
+---
+
+- Informationssäkerhet
+- CISO, it-säkerhetsansvarig, säkerhetschef, säkerhetskoordinator
+- Utformar styrningen av informationssäkerheten och ser till att den på olika sätt implementeras i organisationen.
+
+{% /table %}
 
 ### Analysera de interna intressenterna så här:
 
@@ -89,22 +119,62 @@ Interna förutsättningar kan vara nästan vad som helst inne i er organisation 
 
 Tabell IA2:2: Exempel på interna förutsättningar och dess påverkan
 
-{% comment %}
-TODO: Use <!-- prettier-ignore --> to make sure Prettier does not mess up the tables. First figure out how to configure the MarkDoc Tokenizer: https://markdoc.dev/docs/syntax#comments.
-{% /comment %}
+{% table %}
 
-| Intern förutsättning:                          | Typ av påverkan:                                                                                                                                                                                                                                  |
-| ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Policyer, mål och strategier i organisationen: | Befintliga policyer, mål och strategier avslöjar ofta var er organisation är på väg. Därför måste informations­säkerhetens styrning och mål vara anpassade till detta.                                                                            |
-| Verksamhetsstyrning:                           | Befintlig styrning och planering av er verksamhet. Exempel på fenomen som påverkar styrningen av er informations­säkerhet: förvaltningsmodellen för it planeringsprocessen för verksamhet budgetprocessen sätt att leda och styra.                |
-| Organisationens struktur:                      | Strukturen avslöjar era interna ansvarsområden, roller, rapporteringsvägar och process vid beslutsfattande. Denna struktur styr därmed förutsättningarna för utformningen av ansvar och befogenheter inom er informationssäkerhet.                |
-| Organisationens kultur:                        | Er kultur avslöjar vad som fungerar och vad som förväntas internt gällande styrningen av informationssäkerhet. Vissa organisationer är vana med en vag målstyrning, medan andra kräver en mer detaljerad styrning.                                |
-| Organisationens processer:                     | Såväl era processer för styrning som era processer för organisationen i stort (exempelvis inköp, rekrytering, produkt- och tjänsteutveckling, marknadsföring, leverans och klagomål) påverkar och påverkas av styrningen av informationssäkerhet. |
-| Organisationens resurser:                      | Resurserna avser främst tillgången till personal och finansiella medel samt dess påverkan.                                                                                                                                                        |
-| Standarder och riktlinjer iorganisationen:     | Befintliga standarder som ni har valt att jobba efter som kan påverka eller påverkas av er informationssäkerhet och dess styrning.                                                                                                                |
-| Kompetens inomorganisationen:                  | Vilken kompetens finns var inom er organisation? Detta påverkar vilket ansvar som ni kan dela ut, och vilka typer av säkerhetsåtgärder som kan tänkas fungera ändamålsenligt.                                                                     |
-| Kommunikation inom organisationen:             | Era kommunikationsvägar och sätt att kommunicera är centralt för styrningen av er informationssäkerhet. Alltså: ha era befintliga sätt att kommunicera internt i åtanke när ni utformar informationssäkerheten och dess styrning.                 |
-| Organisationens infrastruktur:                 | Befintlig infrastruktur och teknik, inklusive informations­teknik, påverkar i hög grad informationssäkerheten och dess styrning. Observera att ni ska hantera specifika informationstillgångar i nästa del av analysen (del 3).                   |
+- **Intern förutsättning**
+- **Typ av påverkan**
+
+---
+
+- Policyer, mål och strategier i organisationen:
+- Befintliga policyer, mål och strategier avslöjar ofta var er organisation är på väg. Därför måste informations­säkerhetens styrning och mål vara anpassade till detta.
+
+---
+
+- Verksamhetsstyrning:
+- Befintlig styrning och planering av er verksamhet. Exempel på fenomen som påverkar styrningen av er informations­säkerhet: förvaltningsmodellen för it planeringsprocessen för verksamhet budgetprocessen sätt att leda och styra.
+
+---
+
+- Organisationens struktur:
+- Strukturen avslöjar era interna ansvarsområden, roller, rapporteringsvägar och process vid beslutsfattande. Denna struktur styr därmed förutsättningarna för utformningen av ansvar och befogenheter inom er informationssäkerhet.
+
+---
+
+- Organisationens kultur:
+- Er kultur avslöjar vad som fungerar och vad som förväntas internt gällande styrningen av informationssäkerhet. Vissa organisationer är vana med en vag målstyrning, medan andra kräver en mer detaljerad styrning.
+
+---
+
+- Organisationens processer:
+- Såväl era processer för styrning som era processer för organisationen i stort (exempelvis inköp, rekrytering, produkt- och tjänsteutveckling, marknadsföring, leverans och klagomål) påverkar och påverkas av styrningen av informationssäkerhet.
+
+---
+
+- Organisationens resurser:
+- Resurserna avser främst tillgången till personal och finansiella medel samt dess påverkan.
+
+---
+
+- Standarder och riktlinjer iorganisationen:
+- Befintliga standarder som ni har valt att jobba efter som kan påverka eller påverkas av er informationssäkerhet och dess styrning.
+
+---
+
+- Kompetens inom organisationen:
+- Vilken kompetens finns var inom er organisation? Detta påverkar vilket ansvar som ni kan dela ut, och vilka typer av säkerhetsåtgärder som kan tänkas fungera ändamålsenligt.
+
+---
+
+- Kommunikation inom organisationen:
+- Era kommunikationsvägar och sätt att kommunicera är centralt för styrningen av er informationssäkerhet. Alltså: ha era befintliga sätt att kommunicera internt i åtanke när ni utformar informationssäkerheten och dess styrning.
+
+---
+
+- Organisationens infrastruktur:
+- Befintlig infrastruktur och teknik, inklusive informations­teknik, påverkar i hög grad informationssäkerheten och dess styrning. Observera att ni ska hantera specifika informationstillgångar i nästa del av analysen (del 3).
+
+{% /table %}
 
 ### Analysera de interna förutsättningarna så här:
 
