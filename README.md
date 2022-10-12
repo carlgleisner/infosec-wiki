@@ -1,11 +1,19 @@
 # Metodstöd för informationssäkerhet 🔓📝
 
-Det här är en lättillgänglig och kollaborativ version av [MSB:s metodstöd
-för informationssäkerhet](https://www.informationssakerhet.se/metodstodet).
+Det här är en lättillgänglig och kollaborativ version av MSB:s [metodstöd
+för informationssäkerhet](https://www.informationssakerhet.se/metodstodet). Formatet är förminskat för att göra innehållet mer överskådligt och lättillgängligt.
 
-Webbplatsen underhålls av [Carl Gleisner](https://www.gleisner.legal/om) och du är hjärtligt välkommen att bidra, se under [Bidrag](#bidrag) nedan.
+| Avsnitt | Ursprungligen | Efter bearbetning | Förändring |
+|:---|---:|---:|---:|
+| Analysera | ~ 8 870 ord |  |  |
+| Utforma | ~ 24 360 ord |  |  |
+| Använda |  |  |  |
+| Förbättra |  |  |  |
+| **Totalt** |  |  |  |
 
-Notera gärna att det här är ett pågående arbete och att webbplatsen befinner sig i ett tidigt stadium av utvecklingen ⚠️🚧
+Webbplatsen utvecklas och underhålls av [Carl Gleisner](https://www.gleisner.legal/om). Du är hjärtligt välkommen att lämna egna bidra, se under rubriken [Bidrag](#bidrag) nedan.
+
+Notera gärna att det här är ett pågående arbete och att webbplatsen befinner sig i ett tidigt stadium ⚠️🚧
 
 Webbplatsen är byggd med hjälp av en mall från [Tailwind UI](https://tailwindui.com) som använder [Tailwind CSS](https://tailwindcss.com) och [Next.js](https://nextjs.org).
 
