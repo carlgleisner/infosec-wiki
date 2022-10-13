@@ -62,6 +62,8 @@ Slutligen kan du öppna [http://localhost:3000](http://localhost:3000) för att 
 
 Skapa gärna en issue eller hör av dig på något annat sätt innan du t.ex. skapar en pull request.
 
+Se redan identifierade behov av utveckling under [Issues](https://github.com/carlgleisner/infosec-wiki/issues).
+
 ## Licens
 
 ### Källkod
