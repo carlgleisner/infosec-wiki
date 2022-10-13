@@ -26,7 +26,7 @@ Här finner du en översikt av webbplatsen.{% .lead %}
 
 {% quick-links %}
 
-{% quick-link title="Mallar" icon="followup" href="#" description="Mallar för bl.a. checklistor, analyser och förteckningar över tillgångar." /%}
+{% quick-link title="Mallar" icon="resources" href="#" description="Mallar för bl.a. checklistor, analyser och förteckningar över tillgångar." /%}
 
 {% quick-link title="Länkar" icon="link" href="#" description="Länkar till andra relevanta resurser på området." /%}
 

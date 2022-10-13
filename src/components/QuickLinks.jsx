@@ -11,6 +11,7 @@ import {
   PencilSquareIcon,
   PlayIcon,
   LinkIcon,
+  ClipboardDocumentListIcon,
 } from '@heroicons/react/24/outline'
 
 const icons = {
@@ -24,6 +25,7 @@ const icons = {
   news: MegaphoneIcon,
   use: PlayIcon,
   link: LinkIcon,
+  resources: ClipboardDocumentListIcon,
 }
 
 export function QuickLinks({ children }) {
