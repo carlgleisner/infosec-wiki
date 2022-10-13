@@ -18,7 +18,7 @@ Här finner du en översikt av webbplatsen.{% .lead %}
 
 {% quick-link title="Använda" icon="use" href="/anvanda/allmant" description="När ledningssystemet är utformat måste det ges liv och användas i praktiken genom att t.ex. bestämda bedömningar genomförs och dokumenteras." /%}
 
-{% quick-link title="Följa upp" icon="followup" href="#" description="Både verksamheten och omvärlden förändras. Utformningen av lednignssystemet och dess tillämpning måste därför följas upp och vid behov förbättras." /%}
+{% quick-link title="Följa upp" icon="followup" href="/folja-upp/allmant" description="Både verksamheten och omvärlden förändras. Utformningen av lednignssystemet och dess tillämpning måste därför följas upp och vid behov förbättras." /%}
 
 {% /quick-links %}
 
