@@ -3,13 +3,13 @@
 Det här är en lättillgänglig och kollaborativ version av MSB:s [metodstöd
 för informationssäkerhet](https://www.informationssakerhet.se/metodstodet). Formatet är förminskat för att göra innehållet mer överskådligt och lättillgängligt.
 
-| Avsnitt | Ursprungligen | Efter bearbetning | Förändring |
-|:---|---:|---:|---:|
-| Analysera | ~ 8 870 ord |  |  |
-| Utforma | ~ 24 360 ord |  |  |
-| Använda |  |  |  |
-| Förbättra |  |  |  |
-| **Totalt** |  |  |  |
+| Avsnitt    | Ursprungligen | Efter bearbetning | Förändring |
+| :--------- | ------------: | ----------------: | ---------: |
+| Analysera  |   ~ 8 870 ord |                   |            |
+| Utforma    |  ~ 24 360 ord |                   |            |
+| Använda    |  ~ 11 080 ord |                   |            |
+| Förbättra  |               |                   |            |
+| **Totalt** |               |                   |            |
 
 Webbplatsen utvecklas och underhålls av [Carl Gleisner](https://www.gleisner.legal/om). Du är hjärtligt välkommen att lämna egna bidra, se under rubriken [Bidrag](#bidrag) nedan.
 
@@ -47,7 +47,7 @@ Slutligen kan du öppna [http://localhost:3000](http://localhost:3000) för att 
 - [ ] Föra in metodstödet utan bearbetningar
   - [x] Analysera
   - [x] Utforma
-  - [ ] Använda
+  - [x] Använda
   - [ ] Följa upp
 - [ ] Bearbeta metodstödet
   - [ ] Analysera

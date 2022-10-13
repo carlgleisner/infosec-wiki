@@ -16,7 +16,7 @@ Här finner du en översikt av webbplatsen.{% .lead %}
 
 {% quick-link title="Utforma" icon="design" href="/utforma/allmant" description="När organisationen vet var den står och vart den önskar ta sig måste den utforma det ledningssystem som ska ta den dit." /%}
 
-{% quick-link title="Använda" icon="use" href="#" description="När ledningssystemet är utformat måste det ges liv och användas i praktiken genom att t.ex. bestämda bedömningar genomförs och dokumenteras." /%}
+{% quick-link title="Använda" icon="use" href="/anvanda/allmant" description="När ledningssystemet är utformat måste det ges liv och användas i praktiken genom att t.ex. bestämda bedömningar genomförs och dokumenteras." /%}
 
 {% quick-link title="Följa upp" icon="followup" href="#" description="Både verksamheten och omvärlden förändras. Utformningen av lednignssystemet och dess tillämpning måste därför följas upp och vid behov förbättras." /%}
 

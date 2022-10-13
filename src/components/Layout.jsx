@@ -48,7 +48,13 @@ const navigation = [
   },
   {
     title: 'Använda',
-    links: [{ title: '[TBD]', href: '#' }],
+    links: [
+      { title: 'Allmänt', href: '/anvanda/allmant' },
+      { title: 'Riskanalys', href: '/anvanda/riskanalys' },
+      { title: 'Klassificering', href: '/anvanda/klassificering' },
+      { title: 'Efterlevnad', href: '/anvanda/efterlevnad' },
+      { title: 'Utbildning', href: '/anvanda/utbildning' },
+    ],
   },
   {
     title: 'Följa upp',
