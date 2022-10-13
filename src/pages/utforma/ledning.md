@@ -14,12 +14,12 @@ Ledningens agerande, inte minst att fatta beslut, sätta frågorna på agendan o
 
 Fördelar med, och vad som kännetecknar en ledning som gör skillnad är att den:
 
-- *Är lyssnande och nyfiken.* Ledningen är villig att öka sin kunskap i området för att kunna fatta bra beslut (se avsnittet *Ledningens behov av information och kunskap*).
+- _Är lyssnande och nyfiken._ Ledningen är villig att öka sin kunskap i området för att kunna fatta bra beslut (se avsnittet _Ledningens behov av information och kunskap_).
 - _Utser en CISO och ger denne tydligt mandat och ansvar._
-- *Förstår och beslutar en strategisk inriktning för informationssäkerhet.* Ledningen förstår nyttan med informationssäkerhet och att den utifrån denna står bakom strategiska mål och tillvägagångssätt, som normalt uttrycks och publiceras i organisationens informationssäkerhetspolicy.
-- *Tilldelar resurser till området. *Resurser ska vara i paritet med målsättningar och ambitioner. Det kan vara initiala resurser och återkommande som i årliga handlingsplaner.
-- *Är en förebild i organisationen.* Ledningen agerar och gör uttalanden i enlighet med den strategiska inriktningen och för upp dessa frågor på agendor i olika sammanhang. Dessa är viktiga signalvärden som andra i organisationen anammar och tar efter och som legitimerar och sätter frågorna på agendan.
-- *Vill hålla sig informerad och föra en kontinuerlig dialog med dig som CISO. *Detta gäller både informell dialog och i mer formella former som enligt *Ledningens genomgång*.
+- _Förstår och beslutar en strategisk inriktning för informationssäkerhet._ Ledningen förstår nyttan med informationssäkerhet och att den utifrån denna står bakom strategiska mål och tillvägagångssätt, som normalt uttrycks och publiceras i organisationens informationssäkerhetspolicy.
+- *Tilldelar resurser till området. *Resurser ska vara i paritet med målsättningar och ambitioner. Det kan vara initiala resurser och återkommande som i årliga handlingsplaner.
+- _Är en förebild i organisationen._ Ledningen agerar och gör uttalanden i enlighet med den strategiska inriktningen och för upp dessa frågor på agendor i olika sammanhang. Dessa är viktiga signalvärden som andra i organisationen anammar och tar efter och som legitimerar och sätter frågorna på agendan.
+- *Vill hålla sig informerad och föra en kontinuerlig dialog med dig som CISO. *Detta gäller både informell dialog och i mer formella former som enligt _Ledningens genomgång_.
 
 Informationssäkerhetsarbetet är inte heller ett självändamål, utan syftar till att stötta organisationen i sin strävan att nå sina mål. För ledningen innebär det ett strategiskt och långsiktigt perspektiv och för dig som CISO innebär det att stötta och informera så att ledningen får rätt förutsättningar för det.
 
@@ -39,7 +39,7 @@ I alla organisationer finns också mer eller mindre informella aspekter av ledni
 
 Det första och viktigaste steget är att ledningen får insikt i betydelsen av och nyttan med informationssäkerhet. Du som är nytillsatt CISO bör därför ha som en första prioritet att få tid hos ledningen för att diskutera dessa frågor, känna in var ledningen befinner sig och komma överens om hur informationssäkerhetsarbetet kan och bör bedrivas på ett lämpligt sätt i organisationen. Ett första möte kan handla om en dialog där ni berättar för varandra vad ni upplever som viktigt för organisationen, hur ni ser på informationssäkerhet och vad ni ser som ert gemensamma första steg. Det här hjälper er att tillsammans tydliggöra kopplingen mellan satsningar på informationssäkerhet och organisationens strategiska mål och visioner.
 
-Ledningars kunskapsnivå och förståelse för informationssäkerhet varierar. Initialt kan du som CISO behöva ge ledningen en grundläggande information och kunskap om informationssäkerhet för att sedan kunna diskutera nyttan för den egna organisationen (se avsnitt nedan *Ledningens behov av information och kunskap*). CISO:s kommunikation med ledningen bör alltid anpassas till den egna ledningen och den egna organisationen (se sista avsnittet *Kommunikation med ledningen*).
+Ledningars kunskapsnivå och förståelse för informationssäkerhet varierar. Initialt kan du som CISO behöva ge ledningen en grundläggande information och kunskap om informationssäkerhet för att sedan kunna diskutera nyttan för den egna organisationen (se avsnitt nedan _Ledningens behov av information och kunskap_). CISO:s kommunikation med ledningen bör alltid anpassas till den egna ledningen och den egna organisationen (se sista avsnittet _Kommunikation med ledningen_).
 
 Kopplingen till organisationens visioner, mål och strategier och vad som för närvarande är prioriterat är viktig. Informationssäkerhet har inget egenvärde, utan ska stödja och förbättra organisationens resultat, effektivitet, konkurrensförmåga, att efterleva rättsliga krav med mera. I många fall är en god informationssäkerhet en förutsättning för digitala tjänster och det finns ofta informationssäkerhetsaspekter i redan prioriterade områden i organisationen. Genom att koppla informationssäkerheten till organisationens strategiska, taktiska och operativa inriktning och verksamheter, så skapas en förståelse för dess nytta och betydelse för organisationen.
 
@@ -59,7 +59,7 @@ Ledningen behöver självklart inte ha en djup och specialiserad kunskap om info
 
 Nedan presenteras ett antal områden som är typiska för vad en organisations ledning behöver ha kunskap inom. Vikt och prioritet av de olika områdena kan variera mellan organisationer. Ledningar varierar i grad av kunskapsnivå och mognad och det är som alltid viktigt att man vid information och utbildning anpassar innehållet till den mottagande målgruppen -- ta reda på vad just din ledning behöver.
 
-När det gäller det löpande arbetet behövs alltid återkommande avstämningar med ledningen kring inriktning och resultat i informationssäkerhetsarbetet. Detta benämns i standarden "ledningens genomgång", läs mer om den i Följa upp och förbättra Ledningens genomgång.
+När det gäller det löpande arbetet behövs alltid återkommande avstämningar med ledningen kring inriktning och resultat i informationssäkerhetsarbetet. Detta benämns i standarden "ledningens genomgång", läs mer om den i Följa upp och förbättra Ledningens genomgång.
 
 ### Grundläggande informationssäkerhet
 
@@ -85,16 +85,16 @@ Den sistnämnda nyttan kan påverkas av de övriga nyttorna ovan som till exempe
 
 Ledningen behöver kontinuerligt uppdateras om hur tillståndet är gällande organisationens informationssäkerhet. Här är ett antal typiska områden som berör detta och som ledningen behöver hålla sig informerad om:
 
-- *Informationstillgångar.* Vilka är de mest kritiska och känsliga informationstillgångarna i organisationen?
-- *Externa krav. *Vilka lagkrav finns på organisationens informationssäkerhet? Vilka andra externa krav finns? Hur väl efterlever organisationen dessa?
-- *Risker.* Vilka är de högsta informationssäkerhetsriskerna? Vilka risker är specifika för vår organisation, och vilka delas med samhället i stort och vår bransch/sektor?
-- *Skyddsnivå.* Hur ser organisationens skyddsnivå ut? Är den tillräcklig eller finns allvarliga brister och sårbarheter? Har gapanalyser genomförts gentemot etablerade ramverk eller standarder som exempelvis ISO/IEC 27000?
-- *Incidenter.* Har allvarliga incidenter inträffat, eller återkommer vissa incidenter ofta? Har incidenter inträffat hos samarbetspartners som till exempel it-leverantörer? Hur har incidenterna hanterats?
-- *Revisioner.* Har informationssäkerhetsrelaterade revisioner genomförts? Vilka resultat har dessa gett, positivt och negativt?
-- *Säkerhetsmedvetenhet. *Hur är medvetenheten om informationssäkerhet och risker med digitalisering och it-användning i organisationen? Hos medarbetare eller chefer generllt, inom särskilt viktiga funktioner såsom it-funktionen?
-- *Informationssäkerhetsarbetet. *Hur arbetar man idag med informationssäkerhet i organisationen? Hur planerar och arbetar CISO för att organisationen ska arbeta mot ett systematiskt informationssäkerhetsarbete?
+- _Informationstillgångar._ Vilka är de mest kritiska och känsliga informationstillgångarna i organisationen?
+- *Externa krav. *Vilka lagkrav finns på organisationens informationssäkerhet? Vilka andra externa krav finns? Hur väl efterlever organisationen dessa?
+- _Risker._ Vilka är de högsta informationssäkerhetsriskerna? Vilka risker är specifika för vår organisation, och vilka delas med samhället i stort och vår bransch/sektor?
+- _Skyddsnivå._ Hur ser organisationens skyddsnivå ut? Är den tillräcklig eller finns allvarliga brister och sårbarheter? Har gapanalyser genomförts gentemot etablerade ramverk eller standarder som exempelvis ISO/IEC 27000?
+- _Incidenter._ Har allvarliga incidenter inträffat, eller återkommer vissa incidenter ofta? Har incidenter inträffat hos samarbetspartners som till exempel it-leverantörer? Hur har incidenterna hanterats?
+- _Revisioner._ Har informationssäkerhetsrelaterade revisioner genomförts? Vilka resultat har dessa gett, positivt och negativt?
+- *Säkerhetsmedvetenhet. *Hur är medvetenheten om informationssäkerhet och risker med digitalisering och it-användning i organisationen? Hos medarbetare eller chefer generllt, inom särskilt viktiga funktioner såsom it-funktionen?
+- *Informationssäkerhetsarbetet. *Hur arbetar man idag med informationssäkerhet i organisationen? Hur planerar och arbetar CISO för att organisationen ska arbeta mot ett systematiskt informationssäkerhetsarbete?
 
-Svaren på dessa frågor är hela tiden i rörelse, och är färskvaror. Det är mycket upp till dig som CISO att ha koll på dessa tillstånd och att löpande informera ledningen (se nedan *Kommunikation med ledningen*).
+Svaren på dessa frågor är hela tiden i rörelse, och är färskvaror. Det är mycket upp till dig som CISO att ha koll på dessa tillstånd och att löpande informera ledningen (se nedan _Kommunikation med ledningen_).
 
 ## Dialog med ledningen
 
@@ -102,17 +102,17 @@ Dialogen med ledningen bör ske på ett formellt och planerat sätt, men även i
 
 Initialt, eller om det inte gjorts tidigare, bör du som CISO se till att ledningen och du själv har en gemensam strategisk målbild för organisationens informationssäkerhet. Det är viktigt att ni har samma bild av vart ni vill komma och vilken ambitionsnivå arbetet ska ha.
 
-När ni har kommit överens om de strategiska målen kan ni diskutera vägen dit. Här är det viktigt att involvera de delar av organisationen som påverkas av dessa beslut. Det här handlar om till exempel årsvisa delmål och principiella tillvägagångssätt (såsom vilka roller och ansvar som ska finnas, om vissa ramverk och standarder ska tillämpas med mera). Som stöd i detta arbete kan metodstödets vägledning och verktyg för målgrafer användas (se Utforma Informationssäkerhetsmål). Det kan underlätta att modellera mål i visuell form, där det tydliggörs hur mål hänger ihop och hur de ska nås över kort och lång sikt.
+När ni har kommit överens om de strategiska målen kan ni diskutera vägen dit. Här är det viktigt att involvera de delar av organisationen som påverkas av dessa beslut. Det här handlar om till exempel årsvisa delmål och principiella tillvägagångssätt (såsom vilka roller och ansvar som ska finnas, om vissa ramverk och standarder ska tillämpas med mera). Som stöd i detta arbete kan metodstödets vägledning och verktyg för målgrafer användas (se Utforma Informationssäkerhetsmål). Det kan underlätta att modellera mål i visuell form, där det tydliggörs hur mål hänger ihop och hur de ska nås över kort och lång sikt.
 
-De strategiska målen och de principiella arbetssätten formuleras sedan lämpligen i organisationens informationssäkerhetspolicy (se Utforma Styrdokument). Om mål och strategiska tillvägagångssätt och principer beslutas, publiceras och kommuniceras inom och utanför organisationen, så synliggörs dessa och det skapas bättre förutsättningar att nå målen och följa arbetssätten.
+De strategiska målen och de principiella arbetssätten formuleras sedan lämpligen i organisationens informationssäkerhetspolicy (se Utforma Styrdokument). Om mål och strategiska tillvägagångssätt och principer beslutas, publiceras och kommuniceras inom och utanför organisationen, så synliggörs dessa och det skapas bättre förutsättningar att nå målen och följa arbetssätten.
 
-Läs mer om den löpande formella kommunikationen med ledningen i Följa upp och förbättra Ledningens genomgång.
+Läs mer om den löpande formella kommunikationen med ledningen i Följa upp och förbättra Ledningens genomgång.
 
 ### Framtagning av information till ledningen
 
-Framtagning av information till ledningen kan göras i samband med formella möten som ledningens genomgång, eller vid spontana möten och förfrågningar från ledningen. Mycket av den information och kunskap som ledningen bör vara intresserad av är de kunskapstyper som tagits upp i avsnittet *Ledningens behov av information och kunskap* ovan.
+Framtagning av information till ledningen kan göras i samband med formella möten som ledningens genomgång, eller vid spontana möten och förfrågningar från ledningen. Mycket av den information och kunskap som ledningen bör vara intresserad av är de kunskapstyper som tagits upp i avsnittet _Ledningens behov av information och kunskap_ ovan.
 
-Mycket underlag kan hämtas från resultaten av de fyra typerna av analyser i metodstödets Identifiera och analysera Verksamhetsanalys, Omvärldsanalys, Riskanalys och Gapanalys*. *Andra källor till förändringar i organisationens förhållanden och förutsättningar kan vara resultat från revisioner, intern kontroll, mätningar, incidentrapporter, genomförda informationsklassningar och riskanalyser med mera.
+Mycket underlag kan hämtas från resultaten av de fyra typerna av analyser i metodstödets Identifiera och analysera Verksamhetsanalys, Omvärldsanalys, Riskanalys och Gapanalys*. *Andra källor till förändringar i organisationens förhållanden och förutsättningar kan vara resultat från revisioner, intern kontroll, mätningar, incidentrapporter, genomförda informationsklassningar och riskanalyser med mera.
 
 Förändringar bevakas kontinuerligt av dig som CISO, du noterar dem och vidtar åtgärder vid behov. Du behöver löpande hålla ledningen underrättad om händelser och avvikelser som påverkar organisationens situation och förutsättningar, exempelvis nya lagförslag, förändrad riskbild eller inträffade incidenter. Resultat ska inte dyka upp som överraskningar vid ett planerat möte i slutet av en period.
 
@@ -120,18 +120,18 @@ Du som CISO vill alltid kunna svara på hur det står till med informationssäke
 
 ### Presentationer för ledningen
 
-Tiden för presentationer för ledningen är ofta mycket kort och ledningen befinner sig mitt i en strid ström av frågor som den på kort tid måste sätta sig in och ta ställning till eller besluta om. Det är därför en utmaning att få presentationen eller mötet effektivt och givande för alla. Här är några generella tips för presentationer för ledningar som kan användas vid *ledningens genomgång* (se Följa upp och förbättra Ledningens genomgång) eller i andra sammanhang:
+Tiden för presentationer för ledningen är ofta mycket kort och ledningen befinner sig mitt i en strid ström av frågor som den på kort tid måste sätta sig in och ta ställning till eller besluta om. Det är därför en utmaning att få presentationen eller mötet effektivt och givande för alla. Här är några generella tips för presentationer för ledningar som kan användas vid _ledningens genomgång_ (se Följa upp och förbättra Ledningens genomgång) eller i andra sammanhang:
 
-- *Förbered och planera noga.* Tiden är som sagt ofta begränsad, och det gäller därför att förbereda presentationen noga och gärna öva i förväg. Viktigt är att lämna utrymme för frågor och diskussioner och att vara beredd på att ledningen kan vilja fördjupa en eller ett par frågor. Ta också hänsyn till mötesformen, storlek på bildskärm med mera så att presentationen syns och hörs ordentligt av samtliga.
-- *Anpassa efter målgruppen.* Försök att "tala ledningens språk". Möt ledningen på dess kunskapsnivå och undvik tekniska termer och fördjupningar. Fokusera på verksamhetsnytta och använd begrepp som används i organisationen.
-- *Fokusera.* I vissa fall är uppdraget att ge en allmän presentation om informationssäkerhet. Ibland kan det dock vara en fördel att fokusera på vissa delar av informationssäkerhet, eller att hänga upp presentationen på en särskild händelse som en incident eller en ny lagstiftning.
-- *Välj lämpligt format.* Använd kända format och strukturer som är brukliga i organisationen som till exempel Powerpoint- eller Word-mallar. Avgör också om det endast ska vara en muntlig presentation med stöd av Powerpoint eller om den även ska kompletteras med en skriftlig rapport.
-- *Stäm av med ledningen innan.* Ovanstående punkter bör om möjligt stämmas av med någon i ledningen så att presentationen motsvarar förväntningarna. Efterhand lär du dig hur ledningen vill ha information presenterad.
-- *Förstå och håll tider! *Ha också en reservplan redo om den tid du fått kortas ned på grund av förseningar eller dylikt.
-- *Var tydlig och ärlig. *Skönmåla inte, även om det kan kännas enkelt att säga det du tror att ledningen vill höra. Tveka inte att tydligt beskriva risker och brister om det verkligen behövs.
-- *Redovisa oklarheter. *Osäkerheter finns runt det mesta inom området, exempelvis rörande risker, kostnader, tidsuppskattningar. Var noga med att redovisa osäkerheter istället för att gissa och ge illusionen av att uppskattningar är mer säkra än de är.
-- *Använd om möjligt alternativa presentationsformer.* Om det finns tid, använd gärna presentationsformer som är illustrativa och som aktiverar och engagerar åhörarna. Det kan till exempel vara spel, övningar och scenarier som visar på konsekvenser för verksamheter, till exempel allvarliga och långvariga it-avbrott.
+- _Förbered och planera noga._ Tiden är som sagt ofta begränsad, och det gäller därför att förbereda presentationen noga och gärna öva i förväg. Viktigt är att lämna utrymme för frågor och diskussioner och att vara beredd på att ledningen kan vilja fördjupa en eller ett par frågor. Ta också hänsyn till mötesformen, storlek på bildskärm med mera så att presentationen syns och hörs ordentligt av samtliga.
+- _Anpassa efter målgruppen._ Försök att "tala ledningens språk". Möt ledningen på dess kunskapsnivå och undvik tekniska termer och fördjupningar. Fokusera på verksamhetsnytta och använd begrepp som används i organisationen.
+- _Fokusera._ I vissa fall är uppdraget att ge en allmän presentation om informationssäkerhet. Ibland kan det dock vara en fördel att fokusera på vissa delar av informationssäkerhet, eller att hänga upp presentationen på en särskild händelse som en incident eller en ny lagstiftning.
+- _Välj lämpligt format._ Använd kända format och strukturer som är brukliga i organisationen som till exempel Powerpoint- eller Word-mallar. Avgör också om det endast ska vara en muntlig presentation med stöd av Powerpoint eller om den även ska kompletteras med en skriftlig rapport.
+- _Stäm av med ledningen innan._ Ovanstående punkter bör om möjligt stämmas av med någon i ledningen så att presentationen motsvarar förväntningarna. Efterhand lär du dig hur ledningen vill ha information presenterad.
+- *Förstå och håll tider! *Ha också en reservplan redo om den tid du fått kortas ned på grund av förseningar eller dylikt.
+- *Var tydlig och ärlig. *Skönmåla inte, även om det kan kännas enkelt att säga det du tror att ledningen vill höra. Tveka inte att tydligt beskriva risker och brister om det verkligen behövs.
+- *Redovisa oklarheter. *Osäkerheter finns runt det mesta inom området, exempelvis rörande risker, kostnader, tidsuppskattningar. Var noga med att redovisa osäkerheter istället för att gissa och ge illusionen av att uppskattningar är mer säkra än de är.
+- _Använd om möjligt alternativa presentationsformer._ Om det finns tid, använd gärna presentationsformer som är illustrativa och som aktiverar och engagerar åhörarna. Det kan till exempel vara spel, övningar och scenarier som visar på konsekvenser för verksamheter, till exempel allvarliga och långvariga it-avbrott.
 
-I avsnittet *Att stötta en ledning som gör skillnad* ovan tas fördelar upp med att samverka med andra relevanta roller i organisationen. Det kan innebära fördelar att göra det även vid specifika presentationer för ledningen, för att visa på gemensamma problem och behov och/eller att betona verksamhetsnyttan. Dessutom kan det vara både enklare och effektivare att få till ett möte där ni diskuterar gemensamt istället för två eller flera separata möten.
+I avsnittet _Att stötta en ledning som gör skillnad_ ovan tas fördelar upp med att samverka med andra relevanta roller i organisationen. Det kan innebära fördelar att göra det även vid specifika presentationer för ledningen, för att visa på gemensamma problem och behov och/eller att betona verksamhetsnyttan. Dessutom kan det vara både enklare och effektivare att få till ett möte där ni diskuterar gemensamt istället för två eller flera separata möten.
 
 _Denna vägledning ska språkgranskas._

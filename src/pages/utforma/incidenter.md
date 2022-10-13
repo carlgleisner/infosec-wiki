@@ -1,10 +1,10 @@
 ---
 title: Incidenthantering
-description: Den här vägledningen ger stöd till  organisationer i att utveckla sitt  förebyggande arbete med informationssäkerhetsincidenter.
+description: Den här vägledningen ger stöd till  organisationer i att utveckla sitt  förebyggande arbete med informationssäkerhetsincidenter.
 date: 2022-10-09
 ---
 
-Den här vägledningen ger stöd till  organisationer i att utveckla sitt  förebyggande arbete med informationssäkerhetsincidenter.{% .lead %}
+Den här vägledningen ger stöd till organisationer i att utveckla sitt förebyggande arbete med informationssäkerhetsincidenter.{% .lead %}
 
 ---
 
@@ -26,7 +26,7 @@ Den här vägledningen innehåller stöd i hur arbetet med att utforma, införa 
 
 I ditt arbete med att utforma eller förbättra organisationens hantering av informationssäkerhetsincidenter kan du använda resultaten från samtliga analyser som gjorts i analysfasen (Identifiera och Analysera Organisation, Verksamhet, Risk, Val av säkerhetsåtgärder och Gap).
 
-Du kan också ha nytta av interna regelverk som redan utformats. Utgå från det arbetssätt som din organisation redan har för att hantera informationssäkerhetsincidenter eller andra incidenter, om organisationen har  sådana.
+Du kan också ha nytta av interna regelverk som redan utformats. Utgå från det arbetssätt som din organisation redan har för att hantera informationssäkerhetsincidenter eller andra incidenter, om organisationen har sådana.
 
 Särskilt användbara delar från Metodstödets steg Utforma är:
 
@@ -64,7 +64,7 @@ I incidenthantering ingår alltså både det arbete som organisationen behöver 
 
 ![Incidenthanteringens olika delar](https://www.informationssakerhet.se/siteassets/metodstod-for-lis/3.-utforma/incidenthanteringens-olika-delar.png 'Incidenthanteringens olika delar')
 
-_Figur 1: Bilden visar på incidenthanteringens olika delar. _
+_Figur 1: Bilden visar på incidenthanteringens olika delar. _
 
 Arbetssättet som beskrivs här är generellt och passar alla organisationer. Omfattningen och innehållet i respektive del behöver varieras och utformas utifrån din organisations behov.
 

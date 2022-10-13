@@ -8,11 +8,11 @@ date: 2022-10-06
 
 ---
 
-Denna vägledning ger stöd för att ta fram en riskbild för organisationsgemensamma  informationssäkerhetsrisker. En *riskbild* ger en grov bild av vilka risker som organisationen i stort bedöms ha. Riskbilden för informationssäkerhet kan ingå i en större riskbild som innehåller risker inom flera eller alla organisationens riskområden. Den här vägledningen beskriver dock bara arbetet med att ta fram en riskbild för informationssäkerhet. Att genomföra riskanalyser med en riskbild som underlag är ett sätt att arbeta med risker. Fördelen är att riskbilden beskriver vilka typer av risker som organisationen kan vara utsatt för samt hur allvarliga riskerna bedöms vara för organisationen som helhet, och ibland för olika delar av organisationen. Nackdelen kan vara att riskbilden begränsar deltagarna i riskanalys-workshopen så att de risker som deltagarna upplever i sitt dagliga arbete inte tas upp då de inte finns med i riskbilden. En annan nackdel kan vara att verksamheter tror att organisationens riskbild är tillräcklig vid val av säkerhetsåtgärder och att de därför inte behöver göra kompletterande riskanalyser för sina delar. Det är dock aldrig fallet.
+Denna vägledning ger stöd för att ta fram en riskbild för organisationsgemensamma informationssäkerhetsrisker. En _riskbild_ ger en grov bild av vilka risker som organisationen i stort bedöms ha. Riskbilden för informationssäkerhet kan ingå i en större riskbild som innehåller risker inom flera eller alla organisationens riskområden. Den här vägledningen beskriver dock bara arbetet med att ta fram en riskbild för informationssäkerhet. Att genomföra riskanalyser med en riskbild som underlag är ett sätt att arbeta med risker. Fördelen är att riskbilden beskriver vilka typer av risker som organisationen kan vara utsatt för samt hur allvarliga riskerna bedöms vara för organisationen som helhet, och ibland för olika delar av organisationen. Nackdelen kan vara att riskbilden begränsar deltagarna i riskanalys-workshopen så att de risker som deltagarna upplever i sitt dagliga arbete inte tas upp då de inte finns med i riskbilden. En annan nackdel kan vara att verksamheter tror att organisationens riskbild är tillräcklig vid val av säkerhetsåtgärder och att de därför inte behöver göra kompletterande riskanalyser för sina delar. Det är dock aldrig fallet.
 
-Att arbeta med att ta fram en organisationsgemensam riskbild och att genomföra andra riskanalyser (se Använda Riskanalys) skiljer sig vad gäller underlag, deltagare, genomförande och resultat, varför vägledningarna skiljer sig åt på vissa punkter även om många delar är gemensamma.
+Att arbeta med att ta fram en organisationsgemensam riskbild och att genomföra andra riskanalyser (se Använda Riskanalys) skiljer sig vad gäller underlag, deltagare, genomförande och resultat, varför vägledningarna skiljer sig åt på vissa punkter även om många delar är gemensamma.
 
-Hur den organisationsgemensamma riskbilden kan användas som en del i organisationens riskhantering och som underlag i riskanalyser beskrivs i vägledningarna Utforma Riskhantering och Använda Riskanalys.
+Hur den organisationsgemensamma riskbilden kan användas som en del i organisationens riskhantering och som underlag i riskanalyser beskrivs i vägledningarna Utforma Riskhantering och Använda Riskanalys.
 
 Denna vägledning innehåller:
 
@@ -23,13 +23,13 @@ Denna vägledning innehåller:
   - Resultat - riskbild
   - Förvalta organisationens riskbild
 
-För beskrivningar av de begrepp som används i vägledningen, se Utforma Riskhantering.
+För beskrivningar av de begrepp som används i vägledningen, se Utforma Riskhantering.
 
 ## Syftet med en riskbild
 
-Att använda sig av en riskbild är ett sätt att arbeta med att identifiera och värdera risker. En *riskbild* ger en grov bild av vilka risker som organisationen i stort bedöms vara utsatt för och hur allvarliga dessa risker är för organisationen.
+Att använda sig av en riskbild är ett sätt att arbeta med att identifiera och värdera risker. En _riskbild_ ger en grov bild av vilka risker som organisationen i stort bedöms vara utsatt för och hur allvarliga dessa risker är för organisationen.
 
-Att ta fram en organisationsgemensam riskbild görs genom riskanalys för att förstå organisationens övergripande risker. Resultatet, riskbilden, används som underlag vid andra riskanalyser och för att identifiera organisationens övergripande behov av säkerhetsåtgärder. Till exempel kan riskbilden ge stöd i valet av övergripande säkerhetsåtgärder i organisationens informationssäkerhetsarbete (se Identifiera och analysera Gapanalys). Om organisationen väljer att arbeta med riskbild bör det regleras i styrdokument hur den ska tas fram och förvaltas samt att den är en del av organisationens riskhantering och hur den användas vid riskanalysarbete (se Utforma Riskhantering, Utforma Styrdokument, samt Använda Riskanalys).
+Att ta fram en organisationsgemensam riskbild görs genom riskanalys för att förstå organisationens övergripande risker. Resultatet, riskbilden, används som underlag vid andra riskanalyser och för att identifiera organisationens övergripande behov av säkerhetsåtgärder. Till exempel kan riskbilden ge stöd i valet av övergripande säkerhetsåtgärder i organisationens informationssäkerhetsarbete (se Identifiera och analysera Gapanalys). Om organisationen väljer att arbeta med riskbild bör det regleras i styrdokument hur den ska tas fram och förvaltas samt att den är en del av organisationens riskhantering och hur den användas vid riskanalysarbete (se Utforma Riskhantering, Utforma Styrdokument, samt Använda Riskanalys).
 
 Som namnet antyder är riskbilden något som med grova penseldrag beskriver de viktigaste riskområdena i organisationen. För de flesta organisationer är det omöjligt att identifiera alla risker som finns. Detta gäller också de risker som kommer att ingå i organisationens riskbild. Riskerna som identifieras i riskbilden kommer heller inte kunna ersätta de mer detaljerade riskanalyser som görs för respektive analysobjekt men den kan ge stöd till analysarbetet.
 
@@ -48,7 +48,7 @@ Arbetet med att ta fram en riskbild för organisationen kan delas in i tre faser
 
 Figur 1: Översikt av arbetet med att ta fram en riskbild
 
-I förarbetet fastställs omfattning, deltagare väljs ut och underlag tas fram och sammanställs. Det viktigaste underlaget är en *hotbildsbeskrivning* som används som utgångspunkt till riskbilden. Saknar organisationen en hotbildsbeskrivning behöver den tas fram först. Hur man gör det beskrivs nedan under rubrik* Sammanställ hotbildsbeskrivning*. Om organisationen har en hotbild så kan det vara en bra idé att se över den och eventuellt uppdatera den inför arbetet med att ta fram en riskbild.
+I förarbetet fastställs omfattning, deltagare väljs ut och underlag tas fram och sammanställs. Det viktigaste underlaget är en _hotbildsbeskrivning_ som används som utgångspunkt till riskbilden. Saknar organisationen en hotbildsbeskrivning behöver den tas fram först. Hur man gör det beskrivs nedan under rubrik* Sammanställ hotbildsbeskrivning*. Om organisationen har en hotbild så kan det vara en bra idé att se över den och eventuellt uppdatera den inför arbetet med att ta fram en riskbild.
 
 I genomförandefasen genomförs en workshop där organisationsgemensamma risker identifieras och värderas i form av riskområden.
 
@@ -66,7 +66,7 @@ Alla riskanalyser kräver planering och förberedelser. Detta är inte minst vik
 
 Det som är föremål för riskanalys brukar benämnas riskanalysobjekt. Det är viktigt att detta är definierat så att de som deltar i riskanalysen vet vad de arbetar med. Den huvudsakliga omfattningen bör vara fastställd innan, men precisa avgränsningar kan göras inledningsvis under själva genomförandet. En riskanalys som görs inom ramen för framtagande av en riskbild täcker normalt hela organisationen. För en koncern eller mycket stor organisation kan det dock behöva göras flera riskanalyser för olika verksamheter som därefter sammanställs till en gemensam riskbild.
 
-Förutom den organisatoriska spännvidden ska man också fastställa vilka typer av risker som ska ingå i riskbilden. Är det endast informationssäkerhetsrisker som ska omfattas eller även andra typer av risker? Vad som ska ingå beror på hur organisationens riskhanteringsarbete bedrivs (se Utforma Riskhantering).
+Förutom den organisatoriska spännvidden ska man också fastställa vilka typer av risker som ska ingå i riskbilden. Är det endast informationssäkerhetsrisker som ska omfattas eller även andra typer av risker? Vad som ska ingå beror på hur organisationens riskhanteringsarbete bedrivs (se Utforma Riskhantering).
 
 Hot som kopplas till Sveriges säkerhet enligt säkerhetsskyddslagstiftningen bör normalt inte omfattas, utan tas upp i en särskild säkerhetsskyddsanalys.
 
@@ -129,7 +129,7 @@ Analysledaren tar fram underlag och skickar ut kallelsen. Exempel på innehåll 
 
 ### Kriterier för riskvärdering och riskacceptans
 
-Kriterier för riskvärdering och riskacceptans bör ha fastställts innan riskanalysen (se Utforma Riskhantering). Dessa kriterier bör emellertid beslutas av organisationens ledning. Ett alternativ är därför att, om riskanalysen genomförs av ledningen, inleda riskanalysen med att diskutera och fastställa dessa kriterier, som då också kan prövas under själva riskanalysen.
+Kriterier för riskvärdering och riskacceptans bör ha fastställts innan riskanalysen (se Utforma Riskhantering). Dessa kriterier bör emellertid beslutas av organisationens ledning. Ett alternativ är därför att, om riskanalysen genomförs av ledningen, inleda riskanalysen med att diskutera och fastställa dessa kriterier, som då också kan prövas under själva riskanalysen.
 
 ## Genomförande
 
@@ -148,7 +148,7 @@ Identifiering av riskområden sker genom brainstorming som lämpligen genomförs
 Förbered deltagarna inför brainstormingen med frågor av typen:
 
 - Vilka hot gäller för oss utifrån den typ av verksamhet vi bedriver (privat/offentlig organisation, specifik bransch/sektor)?
-- Vilka är vår organisations mest kritiska och känsliga information och informationssystem? Detta bör ha gjorts i verksamhetsanalysen (se Identifiera och analysera Verksamhetsanalys).
+- Vilka är vår organisations mest kritiska och känsliga information och informationssystem? Detta bör ha gjorts i verksamhetsanalysen (se Identifiera och analysera Verksamhetsanalys).
 - Vilka aktörer kan ha intressen av dessa?
 - Finns specifika hot och sårbarheter relaterade vår organisations:
   - Geografiska lokalisering?
@@ -159,7 +159,7 @@ Förbered deltagarna inför brainstormingen med frågor av typen:
   - Vilka oavsiktliga hot som till exempel avgrävda kablar, naturrelaterade hot eller liknande, samt interna hot som till exempel misstag, handhavandefel, systemuppgraderingar som går fel eller motsvarande kan inträffa?
   - Finns helt andra hot (som ändå är inom omfattningen/avgränsningen)?
 
-Vid riskanalyser för andra analysobjekt med mindre omfattning (till exempel en delverksamhet, ett informationssystem, en process eller liknande), som är mer precisa, betonas ofta att deltagare ska formulera sina risker som specifika *händelser* så att sannolikhet och konsekvens kan bedömas och ge ett visst riskvärde. I en riskanalys för att ta fram organisationens riskbild är detta sällan möjligt eller önskvärt, utan resultatet är snarare ett riskområde.
+Vid riskanalyser för andra analysobjekt med mindre omfattning (till exempel en delverksamhet, ett informationssystem, en process eller liknande), som är mer precisa, betonas ofta att deltagare ska formulera sina risker som specifika _händelser_ så att sannolikhet och konsekvens kan bedömas och ge ett visst riskvärde. I en riskanalys för att ta fram organisationens riskbild är detta sällan möjligt eller önskvärt, utan resultatet är snarare ett riskområde.
 
 För mer avgränsade riskanalyser beskrivs en viss typ av hot mot ett specifikt system eller it-miljö som en händelse så att den kan bedömas utifrån sannolikhet och konsekvens. För en hel organisation blir dock variationerna så många (alla möjliga attackvektorer, alla organisationens it-resurser som drabbas, alla olika sårbarheter som finns, organisationens information som drabbas etcetera.) så att en sådan riskbedömning är meningslös att göra. Riskerna beskrivs snarare som ett riskområde och kan beskrivas i mer generella termer som att "riktade it-attacker skulle kunna drabba vår organisation, i form av enskilda datorer, väsentliga delar av eller till och med hela vår it-miljö och som skulle medföra betydande eller allvarliga konsekvenser".
 
@@ -183,13 +183,13 @@ Hur stor utbredning ett visst riskområde ges i riskmatrisen beror på osäkerhe
 
 Exempel: i Figur 2 har bedömningen gjorts att phishing-attacker generellt är mycket vanligt förekommande (sannolikheten är Mycket hög) medan konsekvenserna kan variera stort (från Försumbar till Betydande), beroende på om endast en enskild medarbetare drabbas eller om angripare ges åtkomst till organisationens it-miljö och planterar skadlig kod blir både konsekvens och sannolikhet olika.
 
-Konsekvenser kan vara av olika slag, så som till exempel ekonomisk förlust, minskat förtroende eller skada hos individer. Vid värderingen av riskområden är det lämpligt att ta hjälp av organisationens konsekvenskategorier och --nivåer (se konsekvensmatris i Utforma Riskhantering).
+Konsekvenser kan vara av olika slag, så som till exempel ekonomisk förlust, minskat förtroende eller skada hos individer. Vid värderingen av riskområden är det lämpligt att ta hjälp av organisationens konsekvenskategorier och --nivåer (se konsekvensmatris i Utforma Riskhantering).
 
 ## Resultat -- en organisationsgemensam riskbild
 
-Workshopen har resulterat i ett antal riskområden vilka värderats på ett övergripande sätt i termer av konsekvens och sannolikhet. Tillsammans bildar riskområdena en organisationsgemensam *riskbild* vilket är det huvudsakliga resultatet. Självklart kan specifika risker identifieras under riskanalysen. Dessa bör i så fall överlämnas till respektive riskägare (se Använda Riskanalys).
+Workshopen har resulterat i ett antal riskområden vilka värderats på ett övergripande sätt i termer av konsekvens och sannolikhet. Tillsammans bildar riskområdena en organisationsgemensam _riskbild_ vilket är det huvudsakliga resultatet. Självklart kan specifika risker identifieras under riskanalysen. Dessa bör i så fall överlämnas till respektive riskägare (se Använda Riskanalys).
 
-Riskbilden bör sättas samman i ett dokument så att den kan användas i enlighet med de syften som riskbilden har och göras tillgänglig för relevanta roller, inte minst riskägare och andra som ansvarar för att analysera och behandla risker inom sina respektive verksamheter. Om organisationens ledning inte deltar i framtagandet av organisationens riskbild behöver den  delges ledningen och nyckelroller som inte deltagit (exempelvis med styrelsen om den genomförts med ledningsgruppen eller vice versa). Ledningen ska lämpligen besluta om riskbilden när den är färdigställd.
+Riskbilden bör sättas samman i ett dokument så att den kan användas i enlighet med de syften som riskbilden har och göras tillgänglig för relevanta roller, inte minst riskägare och andra som ansvarar för att analysera och behandla risker inom sina respektive verksamheter. Om organisationens ledning inte deltar i framtagandet av organisationens riskbild behöver den delges ledningen och nyckelroller som inte deltagit (exempelvis med styrelsen om den genomförts med ledningsgruppen eller vice versa). Ledningen ska lämpligen besluta om riskbilden när den är färdigställd.
 
 Vissa delar av riskbilden kan behöva klassas som konfidentiell med begränsad spridning och behörighet. För att riskbilden ska ha ett syfte behöver den finnas i en version som kan delas och användas internt. Vissa delar bör också kunna publiceras i publika dokument som informationssäkerhetsriktlinjer och informationssäkerhetspolicy.
 
@@ -206,4 +206,4 @@ Riskbilden kan innehålla eller hänvisa till övergripande säkerhetsåtgärder
 
 ## Förvalta organisationens riskbild
 
-Organisationens riskbild behöver förvaltas och därför ses över och uppdateras regelbundet.  Det är lämpligt att riskbilden ses över minst årligen och den förvaltas lämpligen av risksamordnaren. Hur och när det ska ske bör regleras i styrdokument och vara en del av organisationens riskhantering (se Utforma Riskhantering).
+Organisationens riskbild behöver förvaltas och därför ses över och uppdateras regelbundet. Det är lämpligt att riskbilden ses över minst årligen och den förvaltas lämpligen av risksamordnaren. Hur och när det ska ske bör regleras i styrdokument och vara en del av organisationens riskhantering (se Utforma Riskhantering).

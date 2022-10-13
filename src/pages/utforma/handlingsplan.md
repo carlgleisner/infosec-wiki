@@ -1,14 +1,14 @@
 ---
 title: Handlingsplan
-description: Denna vägledning ger stöd i att skapa en handlingsplan för informations­säkerhets­relaterade aktiviteter, som ska beskriva de aktiviteter som ni ska genomföra. Handlingsplanen ska innehålla detaljerad information om varje aktivitet -- till exempel vem som är ansvarig för själva genomförandet, samt resurser och tidplan för aktiviteten.
+description: Denna vägledning ger stöd i att skapa en handlingsplan för informationssäkerhetsrelaterade aktiviteter, som ska beskriva de aktiviteter som ni ska genomföra. Handlingsplanen ska innehålla detaljerad information om varje aktivitet -- till exempel vem som är ansvarig för själva genomförandet, samt resurser och tidplan för aktiviteten.
 date: 2022-10-09
 ---
 
-Denna vägledning ger stöd i att skapa en handlingsplan för informations­säkerhets­relaterade aktiviteter, som ska beskriva de aktiviteter som ni ska genomföra. Handlingsplanen ska innehålla detaljerad information om varje aktivitet -- till exempel vem som är ansvarig för själva genomförandet, samt resurser och tidplan för aktiviteten.{% .lead %}
+Denna vägledning ger stöd i att skapa en handlingsplan för informationssäkerhetsrelaterade aktiviteter, som ska beskriva de aktiviteter som ni ska genomföra. Handlingsplanen ska innehålla detaljerad information om varje aktivitet -- till exempel vem som är ansvarig för själva genomförandet, samt resurser och tidplan för aktiviteten.{% .lead %}
 
 ---
 
-Vanliga svenska titlar på den som samordnar informationssäkerhetsarbetet är informationssäkerhetssamordnare, informationssäkerhetsstrateg eller informationssäkerhets­koordinator. I MSB:s metodstöd för systematiskt informationssäkerhetsarbete har vi kallat den person som är ansvarig för samordningen av informations­säkerheten för CISO, en förkortning efter den engelska titeln chief information security officer. Vi har valt att använda CISOeftersom det är kort, koncist och gör texten lättare att läsa.
+Vanliga svenska titlar på den som samordnar informationssäkerhetsarbetet är informationssäkerhetssamordnare, informationssäkerhetsstrateg eller informationssäkerhetskoordinator. I MSB:s metodstöd för systematiskt informationssäkerhetsarbete har vi kallat den person som är ansvarig för samordningen av informationssäkerheten för CISO, en förkortning efter den engelska titeln chief information security officer. Vi har valt att använda CISOeftersom det är kort, koncist och gör texten lättare att läsa.
 
 ## Handlingsplanen är ett viktigt verktyg
 
@@ -22,13 +22,13 @@ För CISO är handlingsplanen därmed ett viktigt stöd, eftersom den gör det m
 
 ## Analyserna är handlingsplanens ingångsvärden
 
-Resultaten från de analyser som ni har gjort i analysfasen är ingångsvärdena till er handlingsplan. Särskilt viktig är gap-analysen, eftersom denna så konkret uttrycker vilka brister som finns -- det vill säga gapet mellan behov och nuläge (se Analys gap).
+Resultaten från de analyser som ni har gjort i analysfasen är ingångsvärdena till er handlingsplan. Särskilt viktig är gap-analysen, eftersom denna så konkret uttrycker vilka brister som finns -- det vill säga gapet mellan behov och nuläge (se Analys gap).
 
 Brister i gap-analysen är baserade på övriga analyser i metodsteget Identifiera och analysera, främst omvärldsanalysen (rättsliga krav) och riskanalysen. De aktiviteter som ni väljer att ta upp i handlingsplanen avser att minska eller eliminera de risker eller brister som ni påvisat, eller att se till så att ni börjar efterleva målen i form av rättsliga och andra externa krav.
 
-Ett annat, mer direkt ingångsvärde är de *kortsiktiga informationssäkerhetsmål* som ni formulerat i Utforma informationssäkerhetsmål. Observera att man sällan kan uppnå alla dessa mål under den tidsperiod som handlingsplanen avser, och därför kan man behöva prioritera bland de kortsiktiga målen. Denna vägledning ger stöd i att prioritera kortsiktiga informations­säkerhets­mål, och därmed att välja vilka aktiviteter som ska ingå i er handlingsplan.
+Ett annat, mer direkt ingångsvärde är de _kortsiktiga informationssäkerhetsmål_ som ni formulerat i Utforma informationssäkerhetsmål. Observera att man sällan kan uppnå alla dessa mål under den tidsperiod som handlingsplanen avser, och därför kan man behöva prioritera bland de kortsiktiga målen. Denna vägledning ger stöd i att prioritera kortsiktiga informationssäkerhetsmål, och därmed att välja vilka aktiviteter som ska ingå i er handlingsplan.
 
-Fler ingångsvärden till handlingsplanen är de förutsättningar som finns för att genomföra det ni vill. Det handlar om de personer i er organisation som  har ansvar för den verksamhet som berörs och därmed ansvarar för de aktiviteter som behöver genomgöras. Dessa personer kan även ansvara för andra typer av aktiviteter som pågår eller planeras, och som påverkar möjligheten för er att genomföra era kortsiktiga mål. Det handlar även om vilka resurser som finns tillgängliga för de aktiviteter som ni vill föra in i handlingsplanen.
+Fler ingångsvärden till handlingsplanen är de förutsättningar som finns för att genomföra det ni vill. Det handlar om de personer i er organisation som har ansvar för den verksamhet som berörs och därmed ansvarar för de aktiviteter som behöver genomgöras. Dessa personer kan även ansvara för andra typer av aktiviteter som pågår eller planeras, och som påverkar möjligheten för er att genomföra era kortsiktiga mål. Det handlar även om vilka resurser som finns tillgängliga för de aktiviteter som ni vill föra in i handlingsplanen.
 
 ## Handlingsplanens funktion och omfattning
 
@@ -36,10 +36,10 @@ Handlingsplanens funktion är att säkerställa så att ni genomför de aktivite
 
 Aktiviteterna i en handlingsplan kan syfta till att:
 
-- eliminera eller minska identifierade informations­säkerhets­relaterade brister som sammanställts i Analys gap.
+- eliminera eller minska identifierade informationssäkerhetsrelaterade brister som sammanställts i Analys gap.
 - skapa eller förvalta ett systematiskt informationssäkerhetsarbete, det vill säga stegen i detta metodstöd.
 
-Aktiviteterna ska avse att nå de årliga målen i Utforma informationssäkerhetsmål.
+Aktiviteterna ska avse att nå de årliga målen i Utforma informationssäkerhetsmål.
 
 ### Följ befintliga sätt att leda, styra och följa upp verksamheten
 
@@ -49,13 +49,13 @@ Det är därmed lämpligt att låta handlingsplanen följa organisationens verks
 
 ### Välj ut aktiviteter till handlingsplanen
 
-Kortsiktiga mål och tillhörande aktiviteter behöver ni prioritera och föreslå i er handlingsplan som ska innehålla *årliga mål* och *årliga aktiviteter*. Man kan sällan genomföra allt under det första året som omfattas av handlingsplanen vilket innebär att ni måste prioritera bland de kortsiktiga målen. Längre fram i denna vägledning kan ni läsa om hur ni kan tänka vid prioriteringen av aktiviteter.
+Kortsiktiga mål och tillhörande aktiviteter behöver ni prioritera och föreslå i er handlingsplan som ska innehålla _årliga mål_ och _årliga aktiviteter_. Man kan sällan genomföra allt under det första året som omfattas av handlingsplanen vilket innebär att ni måste prioritera bland de kortsiktiga målen. Längre fram i denna vägledning kan ni läsa om hur ni kan tänka vid prioriteringen av aktiviteter.
 
-Ibland kan man behöva väga nyttan med en föreslagen aktivitet mot kostnaden för aktiviteten. Detta kan ni göra i en strukturerad analys, en så kallad kostnads-nyttoanalys. Se vägledningen Kostnads-nyttoanalys för mer information.
+Ibland kan man behöva väga nyttan med en föreslagen aktivitet mot kostnaden för aktiviteten. Detta kan ni göra i en strukturerad analys, en så kallad kostnads-nyttoanalys. Se vägledningen Kostnads-nyttoanalys för mer information.
 
 ### Beslut och validitet
 
-En handlingsplan ska vara ett beslutat dokument. Ni ska beskriva varje aktivitet i detalj: vad ni vill genomföra, vilka som är ansvariga, vilka resurser som är allokerade och vilken tidsram som är bestämd. Ledningen, eller den ledningen delegerat till, ska sedan fastställa handlingsplanen, och samtidigt säkerställa att det finns resurser för att genomföra de aktiviteter som tas upp. Det är vanligt att detta arbete görs inom ramen för den ordinarie verksamhets­planeringen.
+En handlingsplan ska vara ett beslutat dokument. Ni ska beskriva varje aktivitet i detalj: vad ni vill genomföra, vilka som är ansvariga, vilka resurser som är allokerade och vilken tidsram som är bestämd. Ledningen, eller den ledningen delegerat till, ska sedan fastställa handlingsplanen, och samtidigt säkerställa att det finns resurser för att genomföra de aktiviteter som tas upp. Det är vanligt att detta arbete görs inom ramen för den ordinarie verksamhetsplaneringen.
 
 Observera att handlingsplanen inte får devalveras till någon sorts "önskelista", med ett fåtal aktiviteter som enbart CISO tycker är nödvändiga och vill genomföra. Däremot kan och bör du som CISO ha framförhållning med din egen planering av vad som bör finnas med i den kommande handlingsplanen.
 
@@ -71,7 +71,7 @@ En koncern eller stor organisation kan ha ett flertal handlingsplaner som beslut
 
 Om det finns fler handlingsplaner så är det viktigt att du som är CISO har kontroll över de informationssäkerhetsrelaterade delarna i dessa -- och eventuellt operativt koordinerar dem.
 
-It-system kan vara organiserade i objekt enligt en förvaltningsmodell med årliga förvaltningsplaner. Dessa innehåller i regel aktiviteter och budgetar som beslutas av objektägare. Detta ger en god grund för att få in relevanta säkerhetsåtgärder och andra informations­säkerhetsrelaterade aktiviteter på ett integrerat sätt i organisationens it-styrning.
+It-system kan vara organiserade i objekt enligt en förvaltningsmodell med årliga förvaltningsplaner. Dessa innehåller i regel aktiviteter och budgetar som beslutas av objektägare. Detta ger en god grund för att få in relevanta säkerhetsåtgärder och andra informationssäkerhetsrelaterade aktiviteter på ett integrerat sätt i organisationens it-styrning.
 
 ## Aktiviteternas omfattning och form
 
@@ -85,11 +85,11 @@ Ett annat relevant skäl att definiera en aktivitets omfattning på ett visst s�
 
 ### Välj aktivitet efter mognadsgrad
 
-Val av aktiviteter till handlingsplanen kan variera beroende på organisationens mognad. För en organisation som nyligen påbörjat sitt systematiska informationssäkerhetsarbete kan handlings­planen i stort sett enbart bestå av aktiviteter som är grundläggande för att komma igång. Exempel på sådana aktiviteter är framtagning av en informations­säkerhetspolicy och organisation för informationssäkerhet.
+Val av aktiviteter till handlingsplanen kan variera beroende på organisationens mognad. För en organisation som nyligen påbörjat sitt systematiska informationssäkerhetsarbete kan handlingsplanen i stort sett enbart bestå av aktiviteter som är grundläggande för att komma igång. Exempel på sådana aktiviteter är framtagning av en informationssäkerhetspolicy och organisation för informationssäkerhet.
 
-För en organisation som är informationssäkerhetsmässigt mogen kan aktiviteterna istället handla om att förbättra det systematiska informations­säkerhets­arbetet och att förbättra säkerhetsåtgärder.
+För en organisation som är informationssäkerhetsmässigt mogen kan aktiviteterna istället handla om att förbättra det systematiska informationssäkerhetsarbetet och att förbättra säkerhetsåtgärder.
 
-Observera att aktiviteter som är kopplade till rättsliga krav, som exempelvis Dataskydds­förordningen, måste hanteras av alla organisationer -- oavsett mognadsgrad.
+Observera att aktiviteter som är kopplade till rättsliga krav, som exempelvis Dataskyddsförordningen, måste hanteras av alla organisationer -- oavsett mognadsgrad.
 
 ### Olika typer av aktiviteter
 
@@ -101,8 +101,8 @@ Du som CISO bör vara ansvarig för samtliga aktiviteter som har koppling till d
 
 En aktivitet kan vara likställd med, eller en delmängd av, en säkerhetsåtgärd i gap-analysen. Därmed kan en aktivitet:
 
-1.  Tillsammans med andra aktiviteter införa en säkerhetsåtgärd. När fler av aktiviteterna i en handlingsplan tillsammans har som mål att öka medvetenheten om informationssäkerhet i organisationen -- kan aktiviteterna exempelvis utgöras av utbildningar eller kampanjer (se säkerhetsåtgärd 7.2.2).
-2.  Införa ett flertal säkerhetsåtgärder. När en viss aktivitet i en handlingsplan har som mål att skapa en organisationsövergripande process för exempelvis incidenthantering (se säkerhetsåtgärderna 16.1.1--16.1.7).
+1.  Tillsammans med andra aktiviteter införa en säkerhetsåtgärd. När fler av aktiviteterna i en handlingsplan tillsammans har som mål att öka medvetenheten om informationssäkerhet i organisationen -- kan aktiviteterna exempelvis utgöras av utbildningar eller kampanjer (se säkerhetsåtgärd 7.2.2).
+2.  Införa ett flertal säkerhetsåtgärder. När en viss aktivitet i en handlingsplan har som mål att skapa en organisationsövergripande process för exempelvis incidenthantering (se säkerhetsåtgärderna 16.1.1--16.1.7).
 
 ## Prioritera aktiviteter som har bäst effekt
 
@@ -125,7 +125,7 @@ Det kan även finnas andra faktorer som kan påverka prioriteringen av aktivitet
 - Finns långsiktiga aktiviteter som ni bör påbörja i tid, även om resultatet för dessa kommer längre fram i tiden?
 - Finns skäl att genomföra aktiviteterna i en viss ordning, exempelvis på grund av tekniska, organisatoriska eller pedagogiska omständigheter?
 
-Tänk på att ni kan göra en kostnads-nyttoanalys för såväl hela handlingsplanen som för enskilda aktiviteter. En kostnads-nyttoanalys kan underlätta prioriteringen av aktiviteter (se Kostnads-nyttoanalys).
+Tänk på att ni kan göra en kostnads-nyttoanalys för såväl hela handlingsplanen som för enskilda aktiviteter. En kostnads-nyttoanalys kan underlätta prioriteringen av aktiviteter (se Kostnads-nyttoanalys).
 
 ## Framtagning och utformning av en handlingsplan
 
@@ -137,9 +137,9 @@ Aktiviteter i handlingsplanen innebär ibland inköp av konsulttjänster eller p
 
 En handlingsplan består huvudsakligen av de aktiviteter som den omfattar, med följande information om varje aktivitet:
 
-- Aktivitet (namn och kort beskrivning)
-- Årliga informationssäkerhetsmål (ett eller flera)
-- Säkerhetsåtgärd (en eller flera)
+- Aktivitet (namn och kort beskrivning)
+- Årliga informationssäkerhetsmål (ett eller flera)
+- Säkerhetsåtgärd (en eller flera)
 - Prioritet
 - Kostnader och resurser
 - Ansvarig
@@ -158,7 +158,7 @@ Illustrera med fördel aktiviteterna i handlingsplanen grafiskt, till exempel me
 
 ![Figur 1](https://www.informationssakerhet.se/siteassets/metodstod-for-lis/3.-utforma/gantt-schema.-figur-1.jpg 'Aktiviteterna i handlingsplanen beskrivet i ett Gantt-schema')
 
-Figur U5:1: Aktiviteterna i handlingsplanen kan beskrivas grafiskt exempelvis i form av ett Gantt-schema.
+Figur U5:1: Aktiviteterna i handlingsplanen kan beskrivas grafiskt exempelvis i form av ett Gantt-schema.
 
 ## Kommunikation i ett tidigt skede -- för inkludering
 
@@ -166,7 +166,7 @@ Resultatet av en del aktiviteter i handlingsplanen kan medföra vissa förändri
 
 Ni kan även behöva kommunicera med de externa aktörer som kan komma att påverkas av aktiviteterna i er handlingsplan -- till exempel vid själva genomförandet av en aktivitet eller av dess resultat. Det kan handla om att delge viss information till exempelvis kunder, leverantörer, affärspartner, medborgare, fysiska besökare eller besökare på er externa webbplats.
 
-Tänk på att alla former av kommunikationsfrågor alltid bör konsulteras med organisationens kommunikations­avdelning eller motsvarande.
+Tänk på att alla former av kommunikationsfrågor alltid bör konsulteras med organisationens kommunikationsavdelning eller motsvarande.
 
 ## Uppföljning av handlingsplanen
 
@@ -174,15 +174,15 @@ Ni behöver följa upp både handlingsplanen och de aktiviteter som den omfattar
 
 Resultatet av uppföljningen är viktig input för nästa (års-)cykels analys och utformning. Inte minst för att ni ska kunna föra in alla icke-genomförda aktiviteter i nästa handlingsplan -- så att dessa kan prioriteras och bli genomförda nästa år.
 
-Förverkligandet av handlingsplanen och dess resultat (eller brist på resultat) är relevant för metodsteget Följa upp och förbättra, och bör tas upp i Ledningens genomgång.
+Förverkligandet av handlingsplanen och dess resultat (eller brist på resultat) är relevant för metodsteget Följa upp och förbättra, och bör tas upp i Ledningens genomgång.
 
-Under genomförandet av handlingsplanen bör CISO bevaka hur de olika aktiviteterna fortlöper (se Använda Genomförande och efterlevnad).
+Under genomförandet av handlingsplanen bör CISO bevaka hur de olika aktiviteterna fortlöper (se Använda Genomförande och efterlevnad).
 
 Observera att ni kan behöva rapportera stora problem eller avvikelser under genomförandet till ledningen.
 
 ## Resultat
 
-Ni kan skriva in er handlingsplan i verktyget Utforma Handlingsplan
+Ni kan skriva in er handlingsplan i verktyget Utforma Handlingsplan
 
 Referens till standarder i 27000-serien:
 

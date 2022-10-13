@@ -20,17 +20,17 @@ I denna vägledning får ni hjälp att analysera er verksamhet i tre olika delar
 
 ## Interna intressenter -- personer inom organisationen
 
-Interna intressenter är personer (befattningar) eller enheter inom er organisation som påverkar eller påverkas av hur informationssäkerheten styrs. Var och en av dessa intressenter har någon form av behov, förväntningar eller krav som rör informationssäkerheten och dess styrning. Genom analysen identifierar ni vilka intressenterna är och vilka krav de har på hur ni utformar ert informationssäkerhetsarbete.
+Interna intressenter är personer (befattningar) eller enheter inom er organisation som påverkar eller påverkas av hur informationssäkerheten styrs. Var och en av dessa intressenter har någon form av behov, förväntningar eller krav som rör informationssäkerheten och dess styrning. Genom analysen identifierar ni vilka intressenterna är och vilka krav de har på hur ni utformar ert informationssäkerhetsarbete.
 
 ## Interna förutsättningar -- förhållanden som påverkar utformningen
 
-Interna förutsättningar är de förhållanden, utöver interna intressenter, inom er organisation som ni behöver ha i åtanke när ni utformar informationssäkerheten och dess styrning. Var och en av dessa interna förutsättningar har någon form av påverkan på hur ni bäst bör utforma informationssäkerheten och dess styrning för er organisation. Genom analysen identifierar ni såväl dessa förutsättningar som deras påverkan.
+Interna förutsättningar är de förhållanden, utöver interna intressenter, inom er organisation som ni behöver ha i åtanke när ni utformar informationssäkerheten och dess styrning. Var och en av dessa interna förutsättningar har någon form av påverkan på hur ni bäst bör utforma informationssäkerheten och dess styrning för er organisation. Genom analysen identifierar ni såväl dessa förutsättningar som deras påverkan.
 
 Exempel på interna förhållanden kan vara var verksamheten bedrivs geografiskt, om verksamheten bedrivs på flera ställen och ägarförhållanden.
 
-## Informationstillgångar ­-- den information som ska skyddas
+## Informationstillgångar -- den information som ska skyddas
 
-Informationstillgångar är den information som verksamheten hanterar och som ni därmed ska skydda med hjälp av informationssäkerhet, inklusive de resurser som behandlar informationen (exempelvis it‑system). Med hjälp av analysen identifierar ni vilka tillgångar som finns, så att de kan få rätt sorts skydd -- en viktig utgångspunkt för det vidare arbetet.
+Informationstillgångar är den information som verksamheten hanterar och som ni därmed ska skydda med hjälp av informationssäkerhet, inklusive de resurser som behandlar informationen (exempelvis it-system). Med hjälp av analysen identifierar ni vilka tillgångar som finns, så att de kan få rätt sorts skydd -- en viktig utgångspunkt för det vidare arbetet.
 
 ## Analysera övergripande, inte i detalj
 
@@ -54,7 +54,7 @@ Till varje del finns ett tillhörande stöd i form av en Excelmall som ni kan an
 
 ## Analysernas resultat -- grunden i informationssäkerhetsarbetet
 
-Denna analys syfte är att vara grunden när ni utformar informationssäkerhetens styrning inom er organisation*.* Mer konkret innebär det att det sammanlagda resultatet från samtliga analyser (av omvärld, verksamhet, risk, samt gap-analys) ska styra dels hur er organisation väljer att angripa informationssäkerhetsfrågan, dels vilka säkerhetsåtgärder ni behöver för att skydda er information.
+Denna analys syfte är att vara grunden när ni utformar informationssäkerhetens styrning inom er organisation*.* Mer konkret innebär det att det sammanlagda resultatet från samtliga analyser (av omvärld, verksamhet, risk, samt gap-analys) ska styra dels hur er organisation väljer att angripa informationssäkerhetsfrågan, dels vilka säkerhetsåtgärder ni behöver för att skydda er information.
 
 Så: utformning av organisation (ansvar och roller) för informationssäkerhet samt policy, riktlinjer, rutiner, processer och åtgärder för informationssäkerhet -- allt detta utgår från dessa analyser.
 
@@ -62,9 +62,9 @@ Om ni vill ha en mer sammanfattande bild av analysresultatet kan ni sammanställ
 
 ## 1\. Analysera organisationens interna intressenter
 
-Interna intressenter är personer (befattningar) eller enheter inom er egen organisation som antingen påverkar eller påverkas av informationssäkerheten och dess styrning. Var och en av dessa intressenter har någon form av behov, förväntningar eller krav i relation till er informations­­säkerhet.
+Interna intressenter är personer (befattningar) eller enheter inom er egen organisation som antingen påverkar eller påverkas av informationssäkerheten och dess styrning. Var och en av dessa intressenter har någon form av behov, förväntningar eller krav i relation till er informationssäkerhet.
 
-Tabell IA2:1:  Exempel på intressenter och krav
+Tabell IA2:1: Exempel på intressenter och krav
 
 {% table %}
 
@@ -76,7 +76,7 @@ Tabell IA2:1:  Exempel på intressenter och krav
 
 - Beslutsfattare
 - Styrelse, ledning; vd/GD; ekonomichef, personalchef
-- Beslutar om och styr över hur ni ska bedriva ert arbete med informations­säkerhet. Krav på kostnadseffektivitet och ändamålsenlighet.
+- Beslutar om och styr över hur ni ska bedriva ert arbete med informationssäkerhet. Krav på kostnadseffektivitet och ändamålsenlighet.
 
 ---
 
@@ -88,13 +88,13 @@ Tabell IA2:1:  Exempel på intressenter och krav
 
 - Stödenheter
 - It-enhet; Personalenhet, fastighetsenhet, registratur, juristfunktion
-- Är föremål för styrning av informationssäkerhet samt ansvarar för vissa säkerhets­arrangemang.
+- Är föremål för styrning av informationssäkerhet samt ansvarar för vissa säkerhetsarrangemang.
 
 ---
 
 - Medarbetare
 - Anställda; konsulter, praktikanter, medarbetare med speciella roller
-- Tar till sig och rättar sig efter regler. Vill kunna arbeta produktivt, oavsett gällande säkerhets­åtgärder.
+- Tar till sig och rättar sig efter regler. Vill kunna arbeta produktivt, oavsett gällande säkerhetsåtgärder.
 
 ---
 
@@ -113,11 +113,11 @@ Tabell IA2:1:  Exempel på intressenter och krav
 
 ## 2\. Analysera organisationens interna förutsättningar
 
-Interna förutsättningar är olika förhållanden, utöver interna intressenter, inom er egen organisation som ni behöver ha i åtanke när ni utformar informationssäkerheten och dess styrning. Var och en av dessa förutsättningar har således någon form av påverkan på hur ni bäst bör utforma informationssäkerheten.
+Interna förutsättningar är olika förhållanden, utöver interna intressenter, inom er egen organisation som ni behöver ha i åtanke när ni utformar informationssäkerheten och dess styrning. Var och en av dessa förutsättningar har således någon form av påverkan på hur ni bäst bör utforma informationssäkerheten.
 
-Interna förutsättningar kan vara nästan vad som helst inne i er organisation som påverkar eller påverkas av utformningen eller styrningen av det systematiska informations­säkerhetsarbetet. Exempel på sådana förutsättningar finns i tabell 2 nedan.
+Interna förutsättningar kan vara nästan vad som helst inne i er organisation som påverkar eller påverkas av utformningen eller styrningen av det systematiska informationssäkerhetsarbetet. Exempel på sådana förutsättningar finns i tabell 2 nedan.
 
-Tabell IA2:2: Exempel på interna förutsättningar och dess påverkan
+Tabell IA2:2: Exempel på interna förutsättningar och dess påverkan
 
 {% table %}
 
@@ -127,12 +127,12 @@ Tabell IA2:2: Exempel på interna förutsättningar och dess påverkan
 ---
 
 - Policyer, mål och strategier i organisationen:
-- Befintliga policyer, mål och strategier avslöjar ofta var er organisation är på väg. Därför måste informations­säkerhetens styrning och mål vara anpassade till detta.
+- Befintliga policyer, mål och strategier avslöjar ofta var er organisation är på väg. Därför måste informationssäkerhetens styrning och mål vara anpassade till detta.
 
 ---
 
 - Verksamhetsstyrning:
-- Befintlig styrning och planering av er verksamhet. Exempel på fenomen som påverkar styrningen av er informations­säkerhet: förvaltningsmodellen för it planeringsprocessen för verksamhet budgetprocessen sätt att leda och styra.
+- Befintlig styrning och planering av er verksamhet. Exempel på fenomen som påverkar styrningen av er informationssäkerhet: förvaltningsmodellen för it planeringsprocessen för verksamhet budgetprocessen sätt att leda och styra.
 
 ---
 
@@ -172,7 +172,7 @@ Tabell IA2:2: Exempel på interna förutsättningar och dess påverkan
 ---
 
 - Organisationens infrastruktur:
-- Befintlig infrastruktur och teknik, inklusive informations­teknik, påverkar i hög grad informationssäkerheten och dess styrning. Observera att ni ska hantera specifika informationstillgångar i nästa del av analysen (del 3).
+- Befintlig infrastruktur och teknik, inklusive informationsteknik, påverkar i hög grad informationssäkerheten och dess styrning. Observera att ni ska hantera specifika informationstillgångar i nästa del av analysen (del 3).
 
 {% /table %}
 
@@ -185,7 +185,7 @@ Tabell IA2:2: Exempel på interna förutsättningar och dess påverkan
 
 ## 3\. Analysera organisationens informationstillgångar
 
-Informationstillgångar är organisationens information och de resurser som behandlar informationen, exempelvis genom att ta emot, lagra, bearbeta, visa eller kommunicera den. Exempel på sådana resurser är it‑system.
+Informationstillgångar är organisationens information och de resurser som behandlar informationen, exempelvis genom att ta emot, lagra, bearbeta, visa eller kommunicera den. Exempel på sådana resurser är it-system.
 
 ### Informationstillgångar -- det som ni ska skydda
 
@@ -193,7 +193,7 @@ Informationstillgångar är de tillgångar som informationssäkerheten ska skydd
 
 ### Välj fokus för analysen
 
-Vad som är en informationstillgång för just er bör ni avgöra själva inför denna analys. En del organisationer identifierar och namnger enskilda informationsmängder, andra utgår ifrån sina respektive it‑system (exempelvis it‑tjänster eller applikationer).
+Vad som är en informationstillgång för just er bör ni avgöra själva inför denna analys. En del organisationer identifierar och namnger enskilda informationsmängder, andra utgår ifrån sina respektive it-system (exempelvis it-tjänster eller applikationer).
 
 ### Vad är en kritisk tillgång?
 
@@ -201,7 +201,7 @@ Alla informationstillgångar är inte lika centrala för er. I praktiken kan det
 
 ### Syftet med att inventera sina informationstillgångar
 
-Syftet med att inventera era informationstillgångar är att få en sammanställning över vad ni ska skydda med hjälp av informationssäkerhet. Denna sammanställning kan ni sedan använda för att identifiera vilka säkerhetsåtgärder som ni behöver införa för att skapa rätt sorts skydd. Denna identifiering sker tillsammans med respektive tillgångs "ägare", förslagsvis genom informations­klassificering.
+Syftet med att inventera era informationstillgångar är att få en sammanställning över vad ni ska skydda med hjälp av informationssäkerhet. Denna sammanställning kan ni sedan använda för att identifiera vilka säkerhetsåtgärder som ni behöver införa för att skapa rätt sorts skydd. Denna identifiering sker tillsammans med respektive tillgångs "ägare", förslagsvis genom informationsklassificering.
 
 ### Inventera informationstillgångarna så här:
 
@@ -209,24 +209,24 @@ Syftet med att inventera era informationstillgångar är att få en sammanställ
 
 2. **Identifiera och inventera viktiga informationstillgångar.** Ni kan inventera era informationstillgångar på lite olika sätt. Här är två exempel:
 
-   a. **Använd befintliga listor:** Om det finns några befintliga listor över era informationstillgångar så kan ni använda dessa. Till exempel från it‑sidan (där det finns listor över it‑system och dylikt).
+   a. **Använd befintliga listor:** Om det finns några befintliga listor över era informationstillgångar så kan ni använda dessa. Till exempel från it-sidan (där det finns listor över it-system och dylikt).
 
    b. **Gör en egen inventering:** Genom exempelvis processkartläggning kan ni göra en egen inventering av vilken information som är kritisk för specifika delar av er verksamhet, eller för olika interna processer.
 
-3. **Dokumentera informationstillgångarna.** Dokumentera följande:
+3. **Dokumentera informationstillgångarna.** Dokumentera följande:
 
-   a. **ID:** För att det ska vara lättare att identifiera informationstillgångarna i ett senare skede så behöver ni ge varje informationstillgång en unik identifierare. Se exempel i verktyget (Excelmallen) eller välj ett annat sätt som passar er organisation.
+   a. **ID:** För att det ska vara lättare att identifiera informationstillgångarna i ett senare skede så behöver ni ge varje informationstillgång en unik identifierare. Se exempel i verktyget (Excelmallen) eller välj ett annat sätt som passar er organisation.
 
-   b. **Benämning:** Namnge era informationstillgångar, till exempel "Agresso" eller "Abonnentuppgifter".
+   b. **Benämning:** Namnge era informationstillgångar, till exempel "Agresso" eller "Abonnentuppgifter".
 
-   c. **Beskrivning:** Beskriv hur ni använder tillgången (eller tekniken) i fråga. Till exempel "Lönesystem" eller "Kundrelationssystem som levereras av (X) som molntjänst".
+   c. **Beskrivning:** Beskriv hur ni använder tillgången (eller tekniken) i fråga. Till exempel "Lönesystem" eller "Kundrelationssystem som levereras av (X) som molntjänst".
 
-   d. **Information/data:** Beskriv vilken typ av information/data som det handlar om, till exempel "Känsliga personuppgifter".
+   d. **Information/data:** Beskriv vilken typ av information/data som det handlar om, till exempel "Känsliga personuppgifter".
 
    e. **Kritisk:** Skriv "Ja" vid de tillgångar som är helt centrala och kritiska för er organisation. Detta svar innebär att ni kan prioritera dessa när ni sedan ska hantera tillgången. Notera att denna typ av prioritering inte passar alla organisationer. Ni avgör därmed själva ifall ni ska använda denna definition eller inte.
 
-   f. **Ägare och kontakt:** Ange vilken person eller funktion i er organisation som ansvarar för informationstillgången i fråga, samt ange kontaktinformation till denna. Denna information kan ni sedan använda när ni ska kontakta informationsägarna för att genomföra informationsklassificering
+   f. **Ägare och kontakt:** Ange vilken person eller funktion i er organisation som ansvarar för informationstillgången i fråga, samt ange kontaktinformation till denna. Denna information kan ni sedan använda när ni ska kontakta informationsägarna för att genomföra informationsklassificering
 
-Observera: Ni kan utöka inventeringen av informationstillgångar, samt Excelverktyget, så att de täcker in kravet på förteckning över tillgångar som ska ha skydd enligt dataskydds­förordningen (GDPR) och/eller Säkerhetsskyddslagen. I fallet dataskyddsförordningen ska vissa specifika uppgifter dokumenteras för varje informationstillgång, vilket framgår av den regleringens artikel 30. Gällande säkerhetsskyddslagstiftningen var extra uppmärksam på att inte dokumentera detaljer som gör att sammanställningen blir skyddsvärd utifrån Sveriges (rikets) säkerhet.
+Observera: Ni kan utöka inventeringen av informationstillgångar, samt Excelverktyget, så att de täcker in kravet på förteckning över tillgångar som ska ha skydd enligt dataskyddsförordningen (GDPR) och/eller Säkerhetsskyddslagen. I fallet dataskyddsförordningen ska vissa specifika uppgifter dokumenteras för varje informationstillgång, vilket framgår av den regleringens artikel 30. Gällande säkerhetsskyddslagstiftningen var extra uppmärksam på att inte dokumentera detaljer som gör att sammanställningen blir skyddsvärd utifrån Sveriges (rikets) säkerhet.
 
 [](https://www.informationssakerhet.se/metodstodet/analysera/#omv%C3%A4rldsanalys-anchor)

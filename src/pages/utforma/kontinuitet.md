@@ -16,14 +16,14 @@ Figur 1: Kontinuitetshanteringens två syften.
 
 Det finns en ledningssystemsstandard för kontinuitetshantering som har samma struktur som standarden för ledningssystem för informationssäkerhet. Den här vägledningen ger en översikt över hur arbetet med kontinuitetshantering i en organisation kan införas som en del av det systematiska informationssäkerhetsarbetet.
 
-Mer information om kontinuitetshantering och stöd i arbetet finns i MSB:s stöd för Kontinuitetshantering, [www.msb.se/kontinuitetshantering.](https://www.msb.se/kontinuitetshantering 'www.msb.se/kontinuitetshantering')
+Mer information om kontinuitetshantering och stöd i arbetet finns i MSB:s stöd för Kontinuitetshantering, [www.msb.se/kontinuitetshantering.](https://www.msb.se/kontinuitetshantering 'www.msb.se/kontinuitetshantering')
 
 ## Ingångsvärden
 
 Resultaten från samtliga analyser som gjorts i analysfasen är ingångsvärden till arbetet med kontinuitetshantering, samt vissa delar från utformafasen av informationssäkerhetsarbetet. Särskilt viktigt är:
 
 - Identifiering av kritiska informationstillgångar (Identifiera & Analysera Verksamhet)
-- Genomförda klassningar av information (se Utforma Klassningsmodell och Använda Klassning av informationstillgångar) och de resultat som framkommit avseende konsekvens för verksamheten om tillgängligheten begränsas under kortare eller längre tid. Tänk på att problem avseende konfidentialitet och riktighet i många fall resulterar i att informationen inte är tillgänglig under den tid det tar att utreda vad problemet beror på.
+- Genomförda klassningar av information (se Utforma Klassningsmodell och Använda Klassning av informationstillgångar) och de resultat som framkommit avseende konsekvens för verksamheten om tillgängligheten begränsas under kortare eller längre tid. Tänk på att problem avseende konfidentialitet och riktighet i många fall resulterar i att informationen inte är tillgänglig under den tid det tar att utreda vad problemet beror på.
 
 ## Samverkan mellan styrning av kontinuitetshantering och informationssäkerhet
 
@@ -37,7 +37,7 @@ Om det saknas ett kontinuitetsarbete blir det extra viktigt att du som CISO iden
 
 Aktiviteter som informationsklassning, riskbedömning och bedömningar av incidenter har liksom kontinuitetshantering vissa delar gemensamt, exempelvis att göra konsekvensbedömningar. En organisation bör därför ha gemensamma, eller åtminstone kompatibla, kriterier och nivåer för bedömning av konsekvenser. Har organisationen kommit långt på något av dessa områden så kan övriga områden dra nytta av detta.
 
-Har man inte en etablerad kontinuitetshantering för information i organisationen så är en fungerande klassning av informationstillgångar en bra grund för kravställning mellan verksamheter och främst it-funktioner (se Utforma Klassningsmodell och Använda Klassning av informationstillgångar).
+Har man inte en etablerad kontinuitetshantering för information i organisationen så är en fungerande klassning av informationstillgångar en bra grund för kravställning mellan verksamheter och främst it-funktioner (se Utforma Klassningsmodell och Använda Klassning av informationstillgångar).
 
 ## Kritiska resurser som berör informationssäkerhet?
 
@@ -58,7 +58,7 @@ Arbetet med kontinuitetshantering bör som minst innefatta samhällsviktig verks
 - Kommunicera, testa och öva
 - Vidareutveckla arbetet
 
-För beskrivning av vad varje del innebär se Lathund för arbete med kontiuitetshantering (bild 12-27) på [www.msb.se/kontinuitetshantering.](https://www.msb.se/kontinuitetshantering 'www.msb.se/kontinuitetshantering')
+För beskrivning av vad varje del innebär se Lathund för arbete med kontiuitetshantering (bild 12-27) på [www.msb.se/kontinuitetshantering.](https://www.msb.se/kontinuitetshantering 'www.msb.se/kontinuitetshantering')
 
 Tänk på att vissa av de analyser och planer ni tar fram kan innehålla känslig information. Exempelvis kan återställandeplaner innehålla detaljerade beskrivningar av it-miljön som bara de som behöver bör komma åt. De kan också innehålla kontaktuppgifter till personer eller funktioner som inte bör spridas eller ge information om sårbarheter som inte åtgärdats. Denna information kan vara värdefull för någon som vill misskreditera eller på annat sätt skada verksamheten.
 
@@ -74,11 +74,11 @@ Till de administrativa åtgärderna räknas till exempel att de verksamheter som
 
 Till de fysiska åtgärderna räknas till exempel att förvara viktig information, blanketter och kontaktlistor utskrivna på papper i ett brandsäkert skåp.
 
-Till de tekniska åtgärderna räknas till exempel dubblering av it-system på olika sätt och funktionalitet för efterregistrering av information. Dubblering av it-system kan exempelvis innebära att ett reservsystem tar över om det ordinarie inte fungerar, detta kan ske automatiskt eller manuellt. Funktionalitet för efterregistrering kan erbjuda möjlighet att manuellt registrera sådant som annars registreras automatiskt, till exempel  registrera i annans namn eller fylla i datum tidigare än dagens datum.
+Till de tekniska åtgärderna räknas till exempel dubblering av it-system på olika sätt och funktionalitet för efterregistrering av information. Dubblering av it-system kan exempelvis innebära att ett reservsystem tar över om det ordinarie inte fungerar, detta kan ske automatiskt eller manuellt. Funktionalitet för efterregistrering kan erbjuda möjlighet att manuellt registrera sådant som annars registreras automatiskt, till exempel registrera i annans namn eller fylla i datum tidigare än dagens datum.
 
 ## Åtgärder under störning
 
-Störningar beror ofta på en incident av något slag.  Lyckas inte incidentorganisationen återställa normal verksamhet på den tid som är acceptabel för verksamheten kan man behöva besluta om att gå in i krishantering (se Utforma Incidenthantering). Arbetet med att återställa sker utifrån framtagna planer, till exempel återställandeplaner eller incidentplaner. Dessa kan också ingå i kontinuitetsplanen.
+Störningar beror ofta på en incident av något slag. Lyckas inte incidentorganisationen återställa normal verksamhet på den tid som är acceptabel för verksamheten kan man behöva besluta om att gå in i krishantering (se Utforma Incidenthantering). Arbetet med att återställa sker utifrån framtagna planer, till exempel återställandeplaner eller incidentplaner. Dessa kan också ingå i kontinuitetsplanen.
 
 Under tiden arbetar verksamheten utifrån framtagna alternativa arbetssätt, verksamhetens kontinuitetsplan. Det kan finnas olika alternativa arbetssätt beroende på hur lång störningen är. Hur lång tid en störning är acceptabel kan dock variera mellan olika verksamheter i organisationen, i vissa verksamheter kan det krävas ett chefsbeslut för att gå över till alternativa arbetssätt.
 

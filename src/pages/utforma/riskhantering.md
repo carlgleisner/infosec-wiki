@@ -20,7 +20,7 @@ I metodstödet har vi valt att inte definiera olika begrepp. Istället förklara
 
 ## Begreppsförklaringar:
 
-Nedan följer en lista på begrepp som används i metodstödets vägledningar om risk (se också Identifiera och analysera Riskbild, Använda Riskanalys) och hur vi har valt att använda begreppen. Observera att det inte är några definitioner, utan begreppsförklaringar.
+Nedan följer en lista på begrepp som används i metodstödets vägledningar om risk (se också Identifiera och analysera Riskbild, Använda Riskanalys) och hur vi har valt att använda begreppen. Observera att det inte är några definitioner, utan begreppsförklaringar.
 
 - Risk -- resultatet av bedömningen av sannolikheten för och konsekvensen av att inte uppnå mål.
 - Informationssäkerhetsrisk -- att inte uppnå målet att skydda information tillräckligt.
@@ -55,7 +55,7 @@ I det andra fallet är fokus istället enbart på att identifiera risker med en 
 
 Riskanalys görs för att förstå vilka händelser som kan påverka ett analysobjekt negativt, vilka konsekvenser det får och hur sannolikt det är att det händer. Syftet är att använda resultatet från analysen för att införa åtgärder som helt tar bort risken, minskar sannolikheten att den inträffar eller minskar konsekvensen om den inträffar. Under vissa omständigheter kan man välja att acceptera risken som den är.
 
-När ska man inte göra riskanalys utan hot- och riskanalys, risk- och sårbarhetsanalys eller  risk-, hot- och sårbarhetsanalys? Dessa analyser används ibland synonymt och ibland för att visa på var fokus i analysen ska ligga utifrån vad som är syftet med analysen. Enklast är att utgå från grundbegreppet. En hotanalys syftar till att bättre förstå vilka hot som kan drabba ens verksamhet samt vilka eller vad som orsakar hoten. En sårbarhetsanalys fokuserar mest på vilka brister vi själva har för att förstå vad vi kan göra för att minska dem.
+När ska man inte göra riskanalys utan hot- och riskanalys, risk- och sårbarhetsanalys eller risk-, hot- och sårbarhetsanalys? Dessa analyser används ibland synonymt och ibland för att visa på var fokus i analysen ska ligga utifrån vad som är syftet med analysen. Enklast är att utgå från grundbegreppet. En hotanalys syftar till att bättre förstå vilka hot som kan drabba ens verksamhet samt vilka eller vad som orsakar hoten. En sårbarhetsanalys fokuserar mest på vilka brister vi själva har för att förstå vad vi kan göra för att minska dem.
 
 En annan fundering som många organisationer har är om riskanalyser ska vara kvalitativa, kvantitativa, eller en kombination av båda. I den här vägledningen utgår vi från ett kvalitativt angreppssätt vilket vi bedömer är det vanligaste och mest lämpliga inom informationssäkerhet. På grund av områdets komplexitet och ständiga förändring är det svårt att skapa underlag till riskanalyser som är exakta (till exempel baseras på statistik). En erfarenhetsbaserad bedömning av förhållanden i och utanför den egna organisationen och dess informationsbehandling ger ofta bra underlag för att kunna bedöma och behandla risker.
 
@@ -76,9 +76,9 @@ Den här vägledningen ger stöd i att utforma organisationens riskhantering och
 - Utforma och etablera riskhanteringsarbete
 - Utforma riskanalysmodellen
 
-Att arbeta med informationssäkerhet är att arbeta med risk. Standardserien SS-EN ISO/IEC 27000 som metodstödet baseras på är i sig *riskbaserad*, det vill säga att alla åtgärder som införs syftar till att minimera eller helt eliminera identifierade risker, vilket särskiljer ISO/IEC 27000 från andra standarder för ledningssystem som till exempel kvalitet (SS-EN ISO 9001), miljö (SS-EN ISO 14001) och kontinuitetshantering (SS-EN ISO 22301).
+Att arbeta med informationssäkerhet är att arbeta med risk. Standardserien SS-EN ISO/IEC 27000 som metodstödet baseras på är i sig _riskbaserad_, det vill säga att alla åtgärder som införs syftar till att minimera eller helt eliminera identifierade risker, vilket särskiljer ISO/IEC 27000 från andra standarder för ledningssystem som till exempel kvalitet (SS-EN ISO 9001), miljö (SS-EN ISO 14001) och kontinuitetshantering (SS-EN ISO 22301).
 
-Det är organisationens hantering av *informationssäkerhetsrisker* som är i fokus i denna och övriga vägledningar om risk i metodstödet (se Identifiera och analysera Riskbild och Använda Riskanalys). Metodstödets vägledningar om risk bygger till stora delar på vad som sägs i standarderna SS-EN ISO/IEC 27001 (krav) och SS-ISO/IEC 27005 (riskhantering). Denna vägledning motsvarar i stort det som i SS-ISO/IEC 27005 benämns som *Context establishment, *vilket innebär att ta fram förutsättningarna för ett bra riskarbete*.*
+Det är organisationens hantering av _informationssäkerhetsrisker_ som är i fokus i denna och övriga vägledningar om risk i metodstödet (se Identifiera och analysera Riskbild och Använda Riskanalys). Metodstödets vägledningar om risk bygger till stora delar på vad som sägs i standarderna SS-EN ISO/IEC 27001 (krav) och SS-ISO/IEC 27005 (riskhantering). Denna vägledning motsvarar i stort det som i SS-ISO/IEC 27005 benämns som *Context establishment, *vilket innebär att ta fram förutsättningarna för ett bra riskarbete*.*
 
 I metodstödet används begreppet riskanalys synonymt med begreppet riskbedömning i standarder för riskhantering (SS-ISO/IEC 27005 och SS-ISO 31000). Det vill säga att i metodstödets begrepp riskanalys ingår också riskidentifiering och riskvärdering. Valet att inte använda begreppet riskbedömning har gjorts med hänsyn till hur termen riskanalys förstås i Sverige, och att det i metodstödet finns flera andra analyser vilka också syftar till att förstå olika delar av en verksamhet mer djupgående genom analysmetod.
 
@@ -94,9 +94,9 @@ När du utformar hanteringen av informationssäkerhetsrisker behöver du dokumen
 - hur riskbehandling utförs
 - vilken utbildning och kommunikation som behövs för att bedriva riskarbetet i organisationen.
 
-Förutom ovan punkter finns andra arbetssätt eller stöd som en del organisationer bedömer användbara. Ett sådant stöd är att skapa en riskbild som övergripande beskriver och värderar risker som hela organisationen kan drabbas av (se Identifiera och analysera Riskbild).
+Förutom ovan punkter finns andra arbetssätt eller stöd som en del organisationer bedömer användbara. Ett sådant stöd är att skapa en riskbild som övergripande beskriver och värderar risker som hela organisationen kan drabbas av (se Identifiera och analysera Riskbild).
 
-Ledningens inriktning av arbetet med riskhanteringen kan ingå i en policy (säkerhets-, informationssäkerhets- eller riskpolicy) medan mer detaljerade delar kan finnas i riktlinje- eller instruktionsdokument (se Utforma Styrdokument). Exempelvis behöver man här reglera vilka riskanalyser som ska genomföras, hur ofta de som genomföras, samt vem som har ansvar för att initiera, genomföra och följa upp riskarbetet i stort och enskilda riskanalyser.
+Ledningens inriktning av arbetet med riskhanteringen kan ingå i en policy (säkerhets-, informationssäkerhets- eller riskpolicy) medan mer detaljerade delar kan finnas i riktlinje- eller instruktionsdokument (se Utforma Styrdokument). Exempelvis behöver man här reglera vilka riskanalyser som ska genomföras, hur ofta de som genomföras, samt vem som har ansvar för att initiera, genomföra och följa upp riskarbetet i stort och enskilda riskanalyser.
 
 Det går att benämna och visualisera arbetet med riskhantering som en riskhanteringsprocess även om vi inte gör det i metodstödet.
 
@@ -110,7 +110,7 @@ Organisationer har olika sätt att styra, olika mognadsgrad och tradition när d
 
 För att underlätta arbetet med att analysera risker och för att ledningen ska kunna jämföra risker mellan olika verksamheter är det lämpligt att det finns en gemensam modell för hur organisationens alla riskanalyser genomförs oavsett var i organisationen och vilken sorts risk som analyseras. Behandlingen av informationssäkerhetsrisker bör därför vara integrerat, eller i alla fall samordnat, med organisationens generella riskhantering och inte utgöra ett eget sidospår.
 
-Precis som att hanteringen av informationssäkerhetsincidenter och kontinuitet för informationsbehandling måste samordnas med hur organisationen hanterar incidenter och kontinuitet (se Utforma Kontinuitetshantering för informationstillgångar och Utforma Incidenthantering) så måste arbetet med hantering av informationssäkerhetsrisker koordineras med övrig riskhantering.
+Precis som att hanteringen av informationssäkerhetsincidenter och kontinuitet för informationsbehandling måste samordnas med hur organisationen hanterar incidenter och kontinuitet (se Utforma Kontinuitetshantering för informationstillgångar och Utforma Incidenthantering) så måste arbetet med hantering av informationssäkerhetsrisker koordineras med övrig riskhantering.
 
 I arbetet med att skapa och etablera riskhantering för informationssäkerhetsrisker behöver du som CISO utgå från din organisations nuvarande arbete med risker och det finns i grunden två alternativ:
 
@@ -119,7 +119,7 @@ I arbetet med att skapa och etablera riskhantering för informationssäkerhetsri
 
 ## Ansvar och roller
 
-Ansvar inom riskhantering bör följa samma grundprincip som ansvaret för informationssäkerhet, dvs. ansvaret för risker följer det ordinarie verksamhetsansvaret medan särskilt utpekade roller (CISO med flera.) stödjer de verksamhetsansvariga i deras riskarbete (se Utforma Organisation). *Riskägare* kallas den som ansvarar för risker i sin verksamhet. Den som ansvarar för att samordna organisationens riskhantering, stödja och följa upp arbetet kallas ofta *risksamordnare*.
+Ansvar inom riskhantering bör följa samma grundprincip som ansvaret för informationssäkerhet, dvs. ansvaret för risker följer det ordinarie verksamhetsansvaret medan särskilt utpekade roller (CISO med flera.) stödjer de verksamhetsansvariga i deras riskarbete (se Utforma Organisation). _Riskägare_ kallas den som ansvarar för risker i sin verksamhet. Den som ansvarar för att samordna organisationens riskhantering, stödja och följa upp arbetet kallas ofta _risksamordnare_.
 
 _Riskägare_
 
@@ -177,7 +177,7 @@ Modellen du tar fram behöver beskriva:
   - Hur riskbehandling genomförs.
   - Stödmaterial som hjälper organisationen att genomföra riskanalyser och ta fram en åtgärdsplan.
 
-Det finns ett enkelt verktyg för att dokumentera organisationens riskanalysmodell med kriterier och nivåer för riskvärdering, organisationens riskmatris, samt kriterier och nivåer för riskacceptans. Verktyget hittas i verktygslådan, se Verktyg Utforma Kriterier och nivåer för riskvärdering. De antal nivåer, kategorier med mera som finns inlagt i verktyget ska ses som exempet och måste definieras och fastställas utifrån hur den egna organisationen väljer att utforma sitt arbete med risker.
+Det finns ett enkelt verktyg för att dokumentera organisationens riskanalysmodell med kriterier och nivåer för riskvärdering, organisationens riskmatris, samt kriterier och nivåer för riskacceptans. Verktyget hittas i verktygslådan, se Verktyg Utforma Kriterier och nivåer för riskvärdering. De antal nivåer, kategorier med mera som finns inlagt i verktyget ska ses som exempet och måste definieras och fastställas utifrån hur den egna organisationen väljer att utforma sitt arbete med risker.
 
 ### Fastställa analysobjektet
 
@@ -185,7 +185,7 @@ Det är riskägaren som bestämmer vad riskanalysen ska omfatta och dess syfte. 
 
 Syftet med riskanalysen behöver också vara tydligt innan analysen påbörjas. Inom informationssäkerhet är syftet med de riskanalyser som görs att identifiera vilka säkerhetsåtgärder som behöver införas för att säkerställa att informationen skyddas tillräckligt.
 
-Mer om att fastställa analysobjekt, se Använda Riskanalys.
+Mer om att fastställa analysobjekt, se Använda Riskanalys.
 
 ### Identifiera risker
 
@@ -193,7 +193,7 @@ Att beskriva en risk så att den blir tillräckligt begriplig och avgränsad fö
 
 På grund av (orsaker) inträffar risken (händelse) vilket leder till (konsekvenser).
 
-Mer om att identifiera risker, se Använda riskanalys.
+Mer om att identifiera risker, se Använda riskanalys.
 
 ## Fastställa kriterier för riskvärdering
 
@@ -201,7 +201,7 @@ En hörnsten i utformningen av organisationens riskhantering är att fastställa
 
 ## Konsekvenskategorier och -nivåer
 
-Vilka kategorier som organisationen bedömer konsekvens utifrån är beroende av dess verksamhet. Kategorierna speglar vad som är viktigt för organisationen. Vilka kategorier som är viktiga i din organisation kan du till exempel finna i visionsdokument, verksamhetsidéer och värdegrunder. Du kan också identifiera viktiga kriterier genom externa och interna krav som finns på din organisation (se Identifiera och analysera Verksamhetsanalys*,* Identifiera och analysera Omvärldsanalys).
+Vilka kategorier som organisationen bedömer konsekvens utifrån är beroende av dess verksamhet. Kategorierna speglar vad som är viktigt för organisationen. Vilka kategorier som är viktiga i din organisation kan du till exempel finna i visionsdokument, verksamhetsidéer och värdegrunder. Du kan också identifiera viktiga kriterier genom externa och interna krav som finns på din organisation (se Identifiera och analysera Verksamhetsanalys*,* Identifiera och analysera Omvärldsanalys).
 
 Nedan finner du några exempel på vanliga konsekvenskategorier:
 
@@ -227,7 +227,7 @@ Tillsammans kan konsekvensnivåerna och konsekvenskategorierna bilda en konsekve
 
 Figur 2: Exempel på konsekvensnivåer och -kategorier
 
-Nivåer och kategorier för värdering av konsekvenser bör vara samma, eller åtminstone jämförbara, för all bedömning av konsekvens i organisationen till exempel vid konsekvensbedömningar i informationsklassning, incidenthantering och kontinuitetshantering (se Utforma Klassningsmodell, Utforma Incidenthantering, Utforma Kontinuitetshantering för informationstillgångar).
+Nivåer och kategorier för värdering av konsekvenser bör vara samma, eller åtminstone jämförbara, för all bedömning av konsekvens i organisationen till exempel vid konsekvensbedömningar i informationsklassning, incidenthantering och kontinuitetshantering (se Utforma Klassningsmodell, Utforma Incidenthantering, Utforma Kontinuitetshantering för informationstillgångar).
 
 ## Sannolikhetsnivåer
 
@@ -239,7 +239,7 @@ Figur 3: Exempel på sannolikhetsnivåer
 
 Antalet sannolikhetsnivåer bör inte vara för många då det kan skapa onödig komplexitet, men heller inte för få då det kan ge för låg precision som följd. Ett vanligt och lämpligt antal nivåer är tre till sex. Tillsammans med konsekvensnivåerna bildar sannolikhetsnivåerna en riskmatris. De är vanligt men inte nödvändigt att antalet nivåer för konsekvens och sannolikhet är desamma.
 
-Nivåer och kategorier för värdering av sannolikhet bör vara samma, eller åtminstone jämförbara, för all bedömning av sannolikhet i organisationen till exempel vid sannolikhetsbedömningar i informationsklassning, incidenthantering och kontinuitetshantering (se Utforma Klassningsmodell, Utforma Incidenthantering, Utforma Kontinuitetshantering för informationstillgångar).
+Nivåer och kategorier för värdering av sannolikhet bör vara samma, eller åtminstone jämförbara, för all bedömning av sannolikhet i organisationen till exempel vid sannolikhetsbedömningar i informationsklassning, incidenthantering och kontinuitetshantering (se Utforma Klassningsmodell, Utforma Incidenthantering, Utforma Kontinuitetshantering för informationstillgångar).
 
 ## Riskmatris och risknivåer
 
@@ -271,7 +271,7 @@ De risker en riskanalys resulterat i ska åtgärdas på något sätt. Risker kan
 - Överföras (till exempel genom försäkring som täcker konsekvenserna).
 - Reduceras (genom säkerhetsåtgärder).
 
-Riskägaren ansvarar för att risker åtgärdas i det egna ansvarsområdet. Hur detta görs kan styras genom krav på vilka risker riskägaren kan acceptera och vilka risker som behöver behandlas (se avsnittet nedan *Kriterier för riskacceptans*).
+Riskägaren ansvarar för att risker åtgärdas i det egna ansvarsområdet. Hur detta görs kan styras genom krav på vilka risker riskägaren kan acceptera och vilka risker som behöver behandlas (se avsnittet nedan _Kriterier för riskacceptans_).
 
 Man kan välja att åtgärda risker genom att undvika dem, det vill säga avbryta något man gör, göra något på ett helt annat sätt eller inte alls göra det man tänkt.
 
@@ -286,7 +286,7 @@ Reducering av risker kan ske genom:
 
 Hur riskägaren väljer att åtgärda risken behöver beslutas och dokumenteras. Detta görs lämpligen i en åtgärdsplan. Åtgärdsplanen behöver innehålla vilken åtgärd som ska införas, ansvarig för att införa åtgärden, samt när den ska vara införd. Man kan även välja att följa upp hur det går att införa åtgärder genom att visa på status för olika åtgärder i åtgärdsplan, till exempel genom att följa upp om åtgärden införs enligt plan, är något försenad eller om man stött på stora problem.
 
-Det är inte alltid möjligt att reducera hela risken. Antingen för att det inte finns några säkerhetsåtgärder, eller för att man bedömer att man inte kan eller behöver åtgärda hela risken. Det är därför bra att bedöma risknivån efter att säkerhetsåtgärderna införts Den risknivå som blir kvar kallas ofta *kvarstående risk*.
+Det är inte alltid möjligt att reducera hela risken. Antingen för att det inte finns några säkerhetsåtgärder, eller för att man bedömer att man inte kan eller behöver åtgärda hela risken. Det är därför bra att bedöma risknivån efter att säkerhetsåtgärderna införts Den risknivå som blir kvar kallas ofta _kvarstående risk_.
 
 Säkerhetsåtgärder som väljs ligger inte alltid under riskägarens kontroll, utan det kan vara andra funktioner i organisationen som ansvarar för att införa dessa (till exempel en it-avdelning eller fastighetsservice) eller en extern aktör (till exempel en molntjänstleverantör). När man inför säkerhetsåtgärder bör man i första hand välja sådana som organisationen redan godkänt och beslutat om. Om det saknas så behöver en dialog föras med den som kommer att beröras, till exempel åtgärden att införa en brandvägg för att skydda ett informationssystem görs i samverkan med it-avdelningen eftersom de vet vilka brandväggar som organisationen har samt fördelar och nackdelar med olika typer av brandväggar för det aktuella informationssystemet. Säkerhetsåtgärder för att reducera risker kan därför innefatta intern och extern kravställning och behov av dialog innan beslut om vilka säkerhetsåtgärder som ska införas.
 
@@ -310,11 +310,11 @@ Förutsättningarna för när en risk ska lyftas och till vem behöver framgå a
 
 ## Riskregister
 
-Ett *riskregister* är en sammanställning över genomförda riskanalyser och status i riskbehandlingen.
+Ett _riskregister_ är en sammanställning över genomförda riskanalyser och status i riskbehandlingen.
 
-Varje riskägare kan med hjälp av ett eget riskregister hålla kontroll på sina risker. I en mindre organisation kan det dock räcka med ett riskregister för hela organisationen. I de flesta organisationer fungerar det bäst att varje riskägare använder ett eget riskregister men att viss information samlas i ett centralt riskregister för att få en överblick över organisationens alla riskanalyser. Det centrala registret kan användas som utgångspunkt för uppföljning och presentation vid ledningens genomgång (se Följa upp och förbättra Ledningens genomgång).
+Varje riskägare kan med hjälp av ett eget riskregister hålla kontroll på sina risker. I en mindre organisation kan det dock räcka med ett riskregister för hela organisationen. I de flesta organisationer fungerar det bäst att varje riskägare använder ett eget riskregister men att viss information samlas i ett centralt riskregister för att få en överblick över organisationens alla riskanalyser. Det centrala registret kan användas som utgångspunkt för uppföljning och presentation vid ledningens genomgång (se Följa upp och förbättra Ledningens genomgång).
 
-Det riskregister som varje riskägare håller kan till exempel innehålla riskanalysens namn, resultatet av riskanalysen utifrån antal risker i olika risknivå, status gällande åtgärder i åtgärdsplaner, och referenser till själva riskanalysen och åtgärdsplanen med mera. Det finns ett enkelt riskregister som kan användas för detta, se verktyget Verktyg Använda Riskregister. Verktyget ger en bra utgångspunkt men måste anpassas efter varje organisations behov och förutsättningar.
+Det riskregister som varje riskägare håller kan till exempel innehålla riskanalysens namn, resultatet av riskanalysen utifrån antal risker i olika risknivå, status gällande åtgärder i åtgärdsplaner, och referenser till själva riskanalysen och åtgärdsplanen med mera. Det finns ett enkelt riskregister som kan användas för detta, se verktyget Verktyg Använda Riskregister. Verktyget ger en bra utgångspunkt men måste anpassas efter varje organisations behov och förutsättningar.
 
 Fördelen med att sammanställa information om organisationens risker i ett centralt riskregister är att få en överblick över de risker som organisationen har, vem som är riskägare och hur många risker på respektive risknivå den ansvarar för, hur det går att införa säkerhetsåtgärder och vilka åtgärdsansvariga som arbetar med att minska organisationens risker.
 
@@ -322,10 +322,10 @@ Fördelen med att sammanställa information om organisationens risker i ett cent
 
 Nu när vi har utformat vår riskhantering och tagit fram en riskanalysmodell tänk på att resultatet av genomförda riskanalyser kan innehålla mycket känslig information. Riskregistret och ibland även åtgärdsplaner kan också innehålla känslig information. Klassa alltid informationen och hantera den i enlighet med organisationens hanteringsregler.
 
-Arbetet med att ta fram riskbilden kan i vissa delar av framtagandet också vara känslig men det är bra att den slutgiltiga versionen ändå går att dela med sig av för att underlätta organisationens riskanalysarbete (se Identifiera och analysera Riskbild).
+Arbetet med att ta fram riskbilden kan i vissa delar av framtagandet också vara känslig men det är bra att den slutgiltiga versionen ändå går att dela med sig av för att underlätta organisationens riskanalysarbete (se Identifiera och analysera Riskbild).
 
 ## Utbildning och kommunikation
 
-Utformningen av organisationens riskhantering, inklusive ansvar, roller, riskanalysmodell, inte minst kriterier för riskbedömning och övrigt stöd samt eventuella verktyg som ska användas måste kommuniceras på ett tydligt sätt till riskägare och andra berörda roller. Vissa delar, som exempelvis kriterier för riskbedömning, kan byggas in i riskverktyg och användas under själva riskanalysen (se Verktyg Använda Dokumentera riskanalys). Verktyg kan också användas som stöd vid uppföljning av risker.
+Utformningen av organisationens riskhantering, inklusive ansvar, roller, riskanalysmodell, inte minst kriterier för riskbedömning och övrigt stöd samt eventuella verktyg som ska användas måste kommuniceras på ett tydligt sätt till riskägare och andra berörda roller. Vissa delar, som exempelvis kriterier för riskbedömning, kan byggas in i riskverktyg och användas under själva riskanalysen (se Verktyg Använda Dokumentera riskanalys). Verktyg kan också användas som stöd vid uppföljning av risker.
 
-Utbildningsbehovet relaterat till riskhantering behöver analyseras utifrån det ansvar olika roller har och finnas med i organisationens utbildnings- och kommunikationsplan för informationssäkerhet (se Använda Utbilda och kommunicera).
+Utbildningsbehovet relaterat till riskhantering behöver analyseras utifrån det ansvar olika roller har och finnas med i organisationens utbildnings- och kommunikationsplan för informationssäkerhet (se Använda Utbilda och kommunicera).
