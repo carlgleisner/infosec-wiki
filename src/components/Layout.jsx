@@ -58,7 +58,14 @@ const navigation = [
   },
   {
     title: 'Följa upp',
-    links: [{ title: '[TBD]', href: '#' }],
+    links: [
+      { title: 'Allmänt', href: '/folja-upp/allmant' },
+      { title: 'Utvärdera', href: '/folja-upp/utvardera' },
+      {
+        title: 'Ledningens genomgång',
+        href: '/folja-upp/ledningens-genomgang',
+      },
+    ],
   },
   {
     title: 'Resurser',

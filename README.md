@@ -8,8 +8,8 @@ för informationssäkerhet](https://www.informationssakerhet.se/metodstodet). Fo
 | Analysera  |   ~ 8 870 ord |                   |            |
 | Utforma    |  ~ 24 360 ord |                   |            |
 | Använda    |  ~ 11 080 ord |                   |            |
-| Förbättra  |               |                   |            |
-| **Totalt** |               |                   |            |
+| Förbättra  |   ~ 2 950 ord |                   |            |
+| **Totalt** |  ~ 47 260 ord |                   |            |
 
 Webbplatsen utvecklas och underhålls av [Carl Gleisner](https://www.gleisner.legal/om). Du är hjärtligt välkommen att lämna egna bidra, se under rubriken [Bidrag](#bidrag) nedan.
 
@@ -44,16 +44,18 @@ Slutligen kan du öppna [http://localhost:3000](http://localhost:3000) för att 
 
 - [x] Publicera denna repository på GitHub
 - [x] Lansera webbplatsen [infosec.gleisner.wiki](https://infosec.gleisner.wiki)
-- [ ] Föra in metodstödet utan bearbetningar
+- [x] Föra in metodstödet utan bearbetningar
   - [x] Analysera
   - [x] Utforma
   - [x] Använda
-  - [ ] Följa upp
+  - [x] Följa upp
 - [ ] Bearbeta metodstödet
   - [ ] Analysera
   - [ ] Utforma
   - [ ] Använda
   - [ ] Följa upp
+- [ ] Sökfunktion
+- [ ] Flytta driften
 - [ ] Klura ut nästa steg 🤨
 
 ## Bidrag
