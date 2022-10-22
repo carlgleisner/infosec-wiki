@@ -4,6 +4,7 @@ import { Icon } from '@/components/Icon'
 import {
   ExclamationTriangleIcon,
   InformationCircleIcon,
+  LightBulbIcon,
 } from '@heroicons/react/24/outline'
 
 const styles = {
@@ -21,11 +22,19 @@ const styles = {
     body: 'text-amber-800 [--tw-prose-underline:theme(colors.amber.400)] [--tw-prose-background:theme(colors.amber.50)] prose-a:text-amber-900 dark:prose-a:text-white prose-code:text-amber-900 dark:text-stone-300 dark:[--tw-prose-underline:theme(colors.pink.700)] dark:prose-code:text-stone-300',
     icon: 'text-amber-500',
   },
+  tip: {
+    container:
+      'bg-green-50 dark:bg-stone-800/60 dark:ring-1 dark:ring-stone-300/10',
+    title: 'text-green-900 dark:text-green-500',
+    body: 'text-green-800 [--tw-prose-underline:theme(colors.green.400)] [--tw-prose-background:theme(colors.green.50)] prose-a:text-green-900 dark:prose-a:text-white prose-code:text-green-900 dark:text-stone-300 dark:[--tw-prose-underline:theme(colors.pink.700)] dark:prose-code:text-stone-300',
+    icon: 'text-green-500',
+  },
 }
 
 const icons = {
   note: (props) => <InformationCircleIcon {...props} />,
   warning: (props) => <ExclamationTriangleIcon color="amber" {...props} />,
+  tip: (props) => <LightBulbIcon color="green" {...props} />,
 }
 
 export function Callout({ type = 'note', title, children }) {
