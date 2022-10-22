@@ -10,9 +10,9 @@ Verksamhetsanalysen avser det interna perspektivet. I analysen identifieras intr
 
 {% quick-links %}
 
-{% quick-link title="Interna intressenter" icon="users" href="#interna-intressenter" description="Interna intressenter är de i verksamheten som påverkar, eller påverkas av, informations&shy;säkerheten. Analysen identifierar intressenterna och vilka krav de föranleder på arbetet." /%}
+{% quick-link title="Interna intressenter" icon="users" href="#interna-intressenter" description="Interna intressenter är de i verksamheten som påverkar, eller påverkas av, informationssäkerheten. Analysen identifierar intressenterna och vilka krav de föranleder på arbetet." /%}
 
-{% quick-link title="Interna förutsättningar" icon="design" href="#interna-foerutsaettningar" description="Interna förutsättningar är nödvändiga att beakta vid utformningen av informations&shy;säkerheten. Analysen identifierar förutsättningarna samt dessas inverkan på informations&shy;säkerheten." /%}
+{% quick-link title="Interna förutsättningar" icon="design" href="#interna-foerutsaettningar" description="Interna förutsättningar är nödvändiga att beakta vid utformningen av informationssäkerheten. Analysen identifierar förutsättningarna samt dessas inverkan på informationssäkerheten." /%}
 
 {% quick-link title="Tillgångar" icon="use" href="#tillgangar" description="Informationstillgångar är alla de resurser som ska skyddas. Utöver information ingår även it-system, tjänster, hårdvara osv. Du kan bara skydda det du känner till." /%}
 
