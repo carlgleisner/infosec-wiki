@@ -24,6 +24,8 @@ I avsnittet Analysera identifieras nuläget för informationssäkerheten i verks
 Det är inte nödvändigt att genomföra analyserna i den angivna ordningen.
 {% /callout %}
 
-{% callout title="Sveriges säkerhet? Beakta särskilda krav." type="warning" %}
-Var observant på ifall analyserna kan ha betydelse för Sveriges säkerhet enligt säkerkhetsskyddslagen. I så fall krävs det särskild hantering av upp&shy;lysn&shy;ing&shy;arna. Läs mer på [Säkerhetspolisens hemsida](https://xn--skerhetspolisen-0kb.se/verksamheten/sakerhetsskydd/om-sakerhetsskydd.html).
+{% callout title="Uppgifter av betydelse för Sveriges säkerhet" type="warning" %}
+Överväg tidigt om huruvida inventeringen kan innehålla uppgifter av betydelse för Sveriges verksamhet enligt säkerhetsskyddslagen. Var samtidigt mån om att inte bidra till inflation av säkerhetsskydd. Regelverket ska tas på stort allvar men det avser enbart _det mest skyddsvärda_ vi har - mycket faller utanför.
+
+Läs mer om säkerhetsskydd på [Säkerhetspolisens webbplats](https://sakerhetspolisen.se/verksamheten/sakerhetsskydd/om-sakerhetsskydd.html).
 {% /callout %}
