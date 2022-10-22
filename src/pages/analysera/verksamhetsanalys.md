@@ -10,9 +10,9 @@ Verksamhetsanalysen avser det interna perspektivet. I analysen identifieras intr
 
 {% quick-links %}
 
-{% quick-link title="Interna intressenter" icon="users" href="#interna-intressenter" description="Interna intressenter är de i verksamheten som påverkar, eller påverkas av, informationssäkerheten. Analysen identifierar intressenterna och vilka krav de föranleder på arbetet." /%}
+{% quick-link title="Interna intressenter" icon="users" href="#interna-intressenter" description="Interna intressenter är de i verksamheten som påverkar, eller påverkas av, informations&shy;säkerheten. Analysen identifierar intressenterna och vilka krav de föranleder på arbetet." /%}
 
-{% quick-link title="Interna förutsättningar" icon="design" href="#interna-foerutsaettningar" description="Interna förutsättningar är nödvändiga att beakta vid utformningen av informationssäkerheten. Analysen identifierar förutsättningarna samt dessas inverkan på informationssäkerheten." /%}
+{% quick-link title="Interna förutsättningar" icon="design" href="#interna-foerutsaettningar" description="Interna förutsättningar är nödvändiga att beakta vid utformningen av informations&shy;säkerheten. Analysen identifierar förutsättningarna samt dessas inverkan på informations&shy;säkerheten." /%}
 
 {% quick-link title="Tillgångar" icon="use" href="#tillgangar" description="Informationstillgångar är alla de resurser som ska skyddas. Utöver information ingår även it-system, tjänster, hårdvara osv. Du kan bara skydda det du känner till." /%}
 
@@ -28,7 +28,7 @@ Dra nytta av eventuella tidigare analyser i möjligaste mån.
 
 ## Interna intressenter
 
-Interna intressenter är de i verksamheten påverkar, eller påverkas av, informationssäkerheten. Varje intressent har någon form av behov såvitt avser informationssäkerheten.
+Interna intressenter är de i verksamheten påverkar, eller påverkas av, informations&shy;säkerheten. Varje intressent har någon form av behov såvitt avser informations&shy;säkerheten.
 
 Utgå gärna från följande exempel på intressenter med tillhörande roller och behov.
 
@@ -40,17 +40,17 @@ Utgå gärna från följande exempel på intressenter med tillhörande roller oc
 ---
 
 - Ledning
-- Ansvarar för verksamheten och dess organisation. Beslutar ytterst om förhållningssättet till risker och arbetet med informationssäkerheten. Behöver underlag och råd för att kunna övervaka och fatta beslut.
+- Ansvarar för verksamheten och dess organisation. Beslutar ytterst om förhållningssättet till risker och arbetet med informations&shy;säkerheten. Behöver underlag och råd för att kunna övervaka och fatta beslut.
 
 ---
 
 - Objektägare
-- Ansvarar för ett visst objekt. Behöver upplysningar som rör informationssäkerheten avseende objektet. Behöver även stöd och deltagande i processer som är relevanta för rollen.
+- Ansvarar för ett visst objekt. Behöver upplysningar som rör informations&shy;säkerheten avseende objektet. Behöver även stöd och deltagande i processer som är relevanta för rollen.
 
 ---
 
 - Stödenheter
-- Är föremål för styrning av informationssäkerhet och ansvarar för vissa arrangemang kring säkerheten.
+- Är föremål för styrning av informations&shy;säkerhet och ansvarar för vissa arrangemang kring säkerheten.
 
 ---
 
@@ -59,48 +59,48 @@ Utgå gärna från följande exempel på intressenter med tillhörande roller oc
 
 ---
 
-- Informationssäkerhet
-- Utformar styrningen av informationssäkerheten och tillser att den implementeras. Behöver stöd hos ledningen samt medverkande från resten av organisationen.
+- informations&shy;säkerhet
+- Utformar styrningen av informations&shy;säkerheten och tillser att den implementeras. Behöver stöd hos ledningen samt medverkande från resten av organisationen.
 
 {% /table %}
 
 {% callout title="Använd mallarna" type="tip" %}
-Det finns en mall som kan användas för att dokumentera kategorier av interna intressenter och deras behov såvitt avser informationssäkerheten.
+Det finns en mall som kan användas för att dokumentera kategorier av interna intressenter och deras behov såvitt avser informations&shy;säkerheten.
 {% /callout %}
 
 ## Interna förutsättningar
 
-Interna förutsättningar är förhållanden inom organisation som måste beaktas vid utformningen av informationssäkerheten och dess styrning.
+Interna förutsättningar är förhållanden inom organisation som måste beaktas vid utformningen av informations&shy;säkerheten och dess styrning.
 
 {% table %}
 
 - **Intern förutsättning**
-- **Typ av påverkan**
+- **Påverkan**
 
 ---
 
 - Policyer, mål och strategier
-- Befintliga policyer, mål och strategier avslöjar ofta var er organisation är på väg. Därför måste informationssäkerhetens styrning och mål vara anpassade till detta.
+- Arbetet med verksamhetens informations&shy;säkerhet bör främja verksamhetens syfte och mål. Det som framgår av verksamhetens policyer, mål och strategier bör underrätta utformningen och styrningen av arbetet med informations&shy;säkerheten.
 
 ---
 
-- Verksamhetsstyrning
-- Befintlig styrning och planering av er verksamhet. Exempel på fenomen som påverkar styrningen av er informationssäkerhet: förvaltningsmodellen för it planeringsprocessen för verksamhet budgetprocessen sätt att leda och styra.
+- Styrning av verksamheten
+- Styrningen av verksamheten påverkar arbetet med informations&shy;säkerhet genom modellen för förvaltning av it, processen för planering, sättet att leda och styra samt fastställandet av budgeten.
 
 ---
 
 - Struktur
-- Strukturen avslöjar era interna ansvarsområden, roller, rapporteringsvägar och process vid beslutsfattande. Denna struktur styr därmed förutsättningarna för utformningen av ansvar och befogenheter inom er informationssäkerhet.
+- Verksamhetens strukturen i form av interna ansvarsområden, roller, vägar för rapportering och process vid beslutsfattande påverkar arbetet med informations&shy;säkerheten. Strukturen har t.ex. betydelse för utformningen av ansvar och befogenheter.
 
 ---
 
 - Kultur
-- Er kultur avslöjar vad som fungerar och vad som förväntas internt gällande styrningen av informationssäkerhet. Vissa organisationer är vana med en vag målstyrning, medan andra kräver en mer detaljerad styrning.
+- Verksamhetens kultur har stor inverkan på arbetet med informations&shy;säkerheten. Vissa organisationskulturer är vana vid vag styrning medan andra är vana vid mer detaljerad och formell styrning.
 
 ---
 
 - Processer
-- Såväl era processer för styrning som era processer för organisationen i stort (exempelvis inköp, rekrytering, produkt- och tjänsteutveckling, marknadsföring, leverans och klagomål) påverkar och påverkas av styrningen av informationssäkerhet.
+- Många processer påverkar och påverkas av arbetet med informations&shy;säkerheten. Beakta t.ex. inköp, rekrytering, produkt- och tjänsteutveckling, marknadsföring, leverans, mottagande av klagomål osv.
 
 ---
 
@@ -110,7 +110,7 @@ Interna förutsättningar är förhållanden inom organisation som måste beakta
 ---
 
 - Standarder och riktlinjer
-- Befintliga standarder som ni har valt att jobba efter som kan påverka eller påverkas av er informationssäkerhet och dess styrning.
+- Befintliga standarder som ni har valt att jobba efter som kan påverka eller påverkas av er informations&shy;säkerhet och dess styrning.
 
 ---
 
@@ -120,17 +120,17 @@ Interna förutsättningar är förhållanden inom organisation som måste beakta
 ---
 
 - Kommunikation
-- Era kommunikationsvägar och sätt att kommunicera är centralt för styrningen av er informationssäkerhet. Alltså: ha era befintliga sätt att kommunicera internt i åtanke när ni utformar informationssäkerheten och dess styrning.
+- Era kommunikationsvägar och sätt att kommunicera är centralt för styrningen av er informations&shy;säkerhet. Alltså: ha era befintliga sätt att kommunicera internt i åtanke när ni utformar informations&shy;säkerheten och dess styrning.
 
 ---
 
 - Infrastruktur
-- Befintlig infrastruktur och teknik, inklusive informationsteknik, påverkar i hög grad informationssäkerheten och dess styrning. Observera att ni ska hantera specifika informationstillgångar i nästa del av analysen (del 3).
+- Befintlig infrastruktur och teknik, inklusive informationsteknik, påverkar i hög grad informations&shy;säkerheten och dess styrning. Observera att ni ska hantera specifika informationstillgångar i nästa del av analysen (del 3).
 
 {% /table %}
 
 {% callout title="Använd mallarna" type="tip" %}
-Det finns en mall som kan användas för att dokumentera interna förutsättningar att beakta vid utformningen av informationssäkerheten och dess styrning.
+Det finns en mall som kan användas för att dokumentera interna förutsättningar att beakta vid utformningen av informations&shy;säkerheten och dess styrning.
 {% /callout %}
 
 ## Tillgångar
@@ -159,7 +159,7 @@ Beakta följande framgångsfaktorer vid inventeringen av era informationstillgå
 
   - **Beskrivning.** En kort beskrivning av tillgången för den som inte förstår dess funktion redan av benämningen.
 
-  - **Information.** En kort beskrivning av vilken typ av informationen eller den information som behandlas.
+  - **Information.** En kort beskrivning av vilken typ av information eller den information som behandlas.
 
   - **Kritikalitet.** Huruvida tillgången är kritisk för verksamheten eller inte.
 
