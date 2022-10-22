@@ -6,12 +6,17 @@ import {
   MapIcon,
   QuestionMarkCircleIcon,
   UserIcon,
+  UserGroupIcon,
   MegaphoneIcon,
   MagnifyingGlassIcon,
   PencilSquareIcon,
   PlayIcon,
   LinkIcon,
   ClipboardDocumentListIcon,
+  GlobeEuropeAfricaIcon,
+  BuildingOfficeIcon,
+  ShieldExclamationIcon,
+  CalculatorIcon,
 } from '@heroicons/react/24/outline'
 
 const icons = {
@@ -22,10 +27,15 @@ const icons = {
   overview: MapIcon,
   faq: QuestionMarkCircleIcon,
   person: UserIcon,
+  users: UserGroupIcon,
   news: MegaphoneIcon,
   use: PlayIcon,
   link: LinkIcon,
   resources: ClipboardDocumentListIcon,
+  globe: GlobeEuropeAfricaIcon,
+  office: BuildingOfficeIcon,
+  shield: ShieldExclamationIcon,
+  calculator: CalculatorIcon,
 }
 
 export function QuickLinks({ children }) {
