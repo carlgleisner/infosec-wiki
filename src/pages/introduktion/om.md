@@ -12,7 +12,7 @@ Det här projektet är en öppen ansträngning där alla är välkomna att bidra
 
 Innehållet på den här sidan är en anpassning av det metodstöd för informationssäkerhet som Myndigheten för samhällsskydd och beredskap har publicerat på [informationssakerhet.se/metodstodet](https://www.informationssakerhet.se/metodstodet/).
 
-Utöver det annorlunda formatet så anpassas sidan för tillfället genom vissa språkliga ändringar och förenklingar. För tillfället har ännu inga materiella förändringar gjorts. Det materiellt oförändrade innehållet håller på att läggas in. Se projektets [README](https://github.com/carlgleisner/infosec-wiki) i fråga om status och planering.
+Utöver det annorlunda formatet så anpassas sidan för tillfället genom vissa språkliga ändringar och förenklingar. Delar som ännu inte bearbetats har markerats med 🚧 Se projektets [README](https://github.com/carlgleisner/infosec-wiki) i fråga om status och planering.
 
 ## Licens
 
