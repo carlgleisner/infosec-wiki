@@ -1,38 +1,29 @@
 ---
 title: Analysera
-description: Om avsnittet Analysera.
-date: 2022-10-06
+description: I avsnittet Analysera identifieras nuläget för informationssäkerheten i verksamheten samt gapet till det eftersträvade läget.
+date: 2022-10-21
 ---
 
-[TODO: skriv ny ingress]{% .lead %}
+I avsnittet Analysera identifieras nuläget för informationssäkerheten i verksamheten samt gapet till det eftersträvade läget.{% .lead %}
 
 ---
 
-Avsnittet består av fyra delar:
+{% quick-links %}
 
-- Verksamhetsanalys
-- Omvärldsanalys
-- Riskbild
-- Gapanalys
+{% quick-link title="Verksamhetsanalys" icon="office" href="/analysera/verksamhetsanalys" description="I verksamhetsanalysen identifieras väsentliga informationstillgångar samt interna intressenter och interna förutsättningar." /%}
 
-Tillsammans säkerställer analyserna att informationssäkerheten i verksamheten utformas med utgångspunkt i ett tydligt definierat nuläge.
+{% quick-link title="Omvärldsanalys" icon="globe" href="/analysera/omvarldsanalys" description="I omvärldsanalysen identifieras externa krav samt externa intressenter och externa förutsättningar.🚧" /%}
 
-I vilken ordning ni genomför analyserna är beroende på vilka förutsättningar som råder i organisationen och vad som ni kommer fram till är mest framgångsrikt i er organisation.
+{% quick-link title="Riskbild" icon="shield" href="/analysera/riskbild" description="Riskanalysen identifierar informationssäkerhetsrisker.🚧" /%}
 
-Verksamhetsanalysen innefattar identifiering av verksamhetens väsentliga informationstillgångar samt kartläggning av interna intressenter (som beslutsfattare, objektsägare, medarbetare, stödenheter) och förutsättningar (som mål, strategier, organisationsstruktur, infrastruktur).
+{% quick-link title="Gapanalys" icon="calculator" href="/analysera/gapanalys" description="Gapanalysen identifierar \"gapet\" mellan det identifierade nuläget och det eftersträvade läget.🚧" /%}
 
-Här kan du se en [kort introduktionsfilm till verksamhetsanalysen](https://www.youtube.com/watch?v=tuaeTB2MeOo&list=PL51069D289E6C618E&index=65).
+{% /quick-links %}
 
-Omvärldsanalysen innefattar identifiering av externa krav, inklusive rättsliga krav, (som författningar, kontrakt och avtal) samt kartläggning av externa intressenter (som ägare, kunder, leverantörer, granskare) och förutsättningar (som branschspecifika, tekniska, sociala, miljömässiga, politiska).
+{% callout title="Tips" type="tip" %}
+Det är inte nödvändigt att genomföra analyserna i den angivna ordningen.
+{% /callout %}
 
-Här kan du se en [kort introduktionsfilm till omvärldsanalysen](https://www.youtube.com/watch?v=FAwc2hwUo-8&list=PL51069D289E6C618E&index=67).
-
-Riskanalysen identifierar informationssäkerhetsrisker och kan användas verksamhetsövergripande eller för ett enskilt analysobjekt. Riskerna mot informationssäkerheten tas fram genom en systematisk och kreativ process.
-
-Här kan du se en [kort introduktionsfilm till riskanalysen](https://www.youtube.com/watch?v=VNAlUXf8N88&list=PL51069D289E6C618E&index=68).
-
-Gapanalysen kan genomföras med utgångspunkt i resultat från analys av verksamhet, omvärld samt risk men också genomföras utan att de andra analyserna först genomförts. Gapanalys sker sedan med utgångspunkt i de valda säkerhetsåtgärderna, om detta är gjort, eller med utgångspunkt i samtliga säkerhetsåtgärder från standarden SS-EN ISO/IEC 27001, bilaga A (finns med i verktyget). Gapanalysen avser gapet mellan de säkerhetsåtgärder man tar utgångspunkt i och nuvarande status på respektive säkerhetsåtgärd.
-
-Här kan du se en [kort introduktionsfilm till gapanalysen](https://www.youtube.com/watch?v=xeBwJ9ryNZ8&list=PL51069D289E6C618E&index=69).
-
-Resultatet av analyserna är en lista på interna och externa förutsättningar och aktörer samt hur det ska påverka informationssäkerhetsarbetets utformning i nästa steg. Dessutom upprättas en lista på informationstillgångar som ska skyddas, vilka risker de ska skyddas mot, samt valda säkerhetsåtgärder och status på dessa. Informationen används i huvudsak senare i metodsteget Utforma.
+{% callout title="Sveriges säkerhet? Beakta särskilda krav." type="warning" %}
+Var observant på ifall analyserna kan ha betydelse för Sveriges säkerhet enligt säkerkhetsskyddslagen. I så fall krävs det särskild hantering av upp&shy;lysn&shy;ing&shy;arna. Läs mer på [Säkerhetspolisens hemsida](https://xn--skerhetspolisen-0kb.se/verksamheten/sakerhetsskydd/om-sakerhetsskydd.html).
+{% /callout %}
