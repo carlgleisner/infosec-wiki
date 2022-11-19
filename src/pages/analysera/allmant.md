@@ -12,7 +12,7 @@ I avsnittet Analysera identifieras nuläget för informationssäkerheten i verks
 
 {% quick-link title="Verksamhetsanalys" icon="office" href="/analysera/verksamhetsanalys" description="I verksamhetsanalysen identifieras väsentliga informationstillgångar samt interna intressenter och interna förutsättningar." /%}
 
-{% quick-link title="Omvärldsanalys" icon="globe" href="/analysera/omvarldsanalys" description="I omvärldsanalysen identifieras externa krav samt externa intressenter och externa förutsättningar.🚧" /%}
+{% quick-link title="Omvärldsanalys" icon="globe" href="/analysera/omvarldsanalys" description="I omvärldsanalysen identifieras externa krav samt externa intressenter och externa förutsättningar." /%}
 
 {% quick-link title="Riskbild" icon="shield" href="/analysera/riskbild" description="Riskanalysen identifierar informationssäkerhetsrisker.🚧" /%}
 

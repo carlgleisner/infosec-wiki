@@ -24,7 +24,7 @@ const navigation = [
     links: [
       { title: 'Allmänt', href: '/analysera/allmant' },
       { title: 'Verksamhetsanalys', href: '/analysera/verksamhetsanalys' },
-      { title: 'Omvärldsanalys 🚧', href: '/analysera/omvarldsanalys' },
+      { title: 'Omvärldsanalys', href: '/analysera/omvarldsanalys' },
       { title: 'Riskbild 🚧', href: '/analysera/riskbild' },
       { title: 'Gapanalys 🚧', href: '/analysera/gapanalys' },
     ],

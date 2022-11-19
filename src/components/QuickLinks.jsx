@@ -17,6 +17,7 @@ import {
   BuildingOfficeIcon,
   ShieldExclamationIcon,
   CalculatorIcon,
+  ScaleIcon,
 } from '@heroicons/react/24/outline'
 
 const icons = {
@@ -36,6 +37,7 @@ const icons = {
   office: BuildingOfficeIcon,
   shield: ShieldExclamationIcon,
   calculator: CalculatorIcon,
+  scale: ScaleIcon,
 }
 
 export function QuickLinks({ children }) {

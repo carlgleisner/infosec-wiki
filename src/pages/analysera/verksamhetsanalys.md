@@ -1,10 +1,10 @@
 ---
 title: Verksamhetsanalys
-description: 'Analysen av verksamheten fokuserar på det interna perspektivet. I analysen identifieras intressenter, förutsättningar och tillgångar.'
+description: 'Analysen av verksamheten fokuserar på det interna perspektivet. I analysen identifieras interna intressenter, förutsättningar och tillgångar.'
 date: 2022-10-21
 ---
 
-Verksamhetsanalysen avser det interna perspektivet. I analysen identifieras intressenter, förutsättningar och tillgångar.{% .lead %}
+Verksamhetsanalysen avser det interna perspektivet. I analysen identifieras interna intressenter, förutsättningar och tillgångar.{% .lead %}
 
 ---
 
@@ -74,7 +74,7 @@ Interna förutsättningar är förhållanden inom organisation som måste beakta
 
 {% table %}
 
-- **Intern förutsättning**
+- **Förutsättning**
 - **Påverkan**
 
 ---

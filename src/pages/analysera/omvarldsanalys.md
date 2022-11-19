@@ -1,130 +1,191 @@
 ---
 title: Omvärldsanalys
-description: Om avsnittet Omvärldsanalys.
-date: 2022-10-06
+description: Omvärldsanalysen avser det externa perspektivet. I analysen identifieras externa intressenter, förutsättningar och rättsliga krav.
+date: 2022-10-28
 ---
 
-För att ni ska kunna utforma styrningen av informationssäkerheten i er organisation på ett kostnadseffektivt sätt så behöver ni göra olika typer av analyser. Den här vägledningen fokuserar på det externa perspektivet, där ni identifierar er organisations omvärld i tre delar: först externa intressenter, sedan externa förutsättningar och slutligen rättsliga krav.{% .lead %}
+Omvärldsanalysen avser det externa perspektivet. I analysen identifieras externa intressenter, förutsättningar och rättsliga krav.{% .lead %}
 
 ---
 
-Följande ingår i omvärldsanalysen
+{% quick-links %}
 
-Den här vägledningen fokuserar på en analys av er organisations omvärld, vilket även kallas för det externa perspektivet. Ordet "omvärld" syftar på allt som ligger utanför organisationens direkta kontroll, men som ändå antingen påverkar eller påverkas av organisationens informationssäkerhet.
+{% quick-link title="Externa intressenter" icon="users" href="#externa-intressenter" description="Externa intressenter är de utanför organisationen som påverkar eller påverkas av  informationssäkerheten. Analysen identifierar intressenterna och vilka krav de föranleder på arbetet." /%}
 
-Genom denna analys identifierar ni vilka rättsliga krav som gäller för er organisation, så att ni kan utforma organisationens informationssäkerhet enligt gällande lagar och regler.
+{% quick-link title="Externa förutsättningar" icon="globe" href="#externa-foerutsaettningar" description="Externa förutsättningar är nödvändiga att beakta vid utformningen av informationssäkerheten. Analysen identifierar förutsättningarna samt dessas inverkan på informationssäkerheten." /%}
 
-Följande ingår inte i omvärldsanalysen
+{% quick-link title="Rättsliga krav" icon="scale" href="#raettsliga-krav" description="Rättsliga krav avseende informationssäkerhet kan avse hur arbetet ska utformas eller vilka åtgärder som ska vidtas. Analysen identifierar de relevanta regelverken och vilka krav som ställs." /%}
 
-Det finns en annan vägledning för analys av sådant som ligger innanför organisationens kontroll. Den analysen -- av er egen verksamhet -- sker därmed inte i denna omvärldsanalys.
+{% /quick-links %}
 
-Även risker och hot som kan inträffa ska ni hantera separat i en riskanalys. Det gör ingenting ifall analyserna överlappar varandra, det viktigaste är att ni inte råkar utelämna något väsentligt.
+{% callout title="Fastna inte i detaljer" type="tip" %}
+Analysera först övergripande för att sedan återvända för eventuella nödvändiga fördjupningar.
+{% /callout %}
 
-## Analysens tre steg
+{% callout title="Tidigare analyser" type="tip" %}
+Dra nytta av eventuella tidigare analyser i möjligaste mån.
+{% /callout %}
 
-Ni analyserar organisationens omvärld och det externa perspektivet i tre olika delar, eller steg:
+## Externa intressenter
 
-1.  Analysera organisationens externa intressenter
-2.  Analysera organisationens externa förutsättningar
-3.  Analysera organisationens rättsliga krav
+Externa intressenter är aktörer utanför organisationen, som antingen påverkar eller påverkas av den er organisations informationssäkerhet. Varje extern intressent har någon form av påverkan, behov, förväntningar eller krav. De krav som ställs kan vara avtalade.
 
-### Externa intressenter -- personer utanför organisationen
+Nedan följer en förteckning över ågra typiska kategorier av externa intressenter och deras typiska förhållande till er organisation.
 
-Externa intressenter är personer, grupper eller organisationer utanför den egna organisationen, som påverkar eller påverkas av er organisations informationssäkerhet. Var och en av dessa intressenter har någon form av behov, förväntningar, krav eller annan påverkan i relation till informationssäkerheten och dess styrning.
+{% table %}
 
-Genom att göra denna analys identifierar ni vilka intressenterna är, vilka krav de har och hur de påverkar eller påverkas. När ni har gjort det så kan ni ta med det i beräkningen när ni utformar informationssäkerhetsarbetet.
+- **Intressent**
+- **Roll, behov, påverkan**
 
-### Externa förutsättningar -- förhållanden som påverkar utformningen
+---
 
-Externa förutsättningar är de förhållanden i organisationens omvärld, utöver externa intressenter och rättsliga krav, som ni behöver tänka på när ni utformar styrningen av informationssäkerheten. Det kan exempelvis röra sig om politiska och tekniska förutsättningar.
+- Ägare
+- Ägare, och motsvarande intressenter, har ett allmänt intresse i verksamheten och utgör de yttersta beslutsfattarna. Deras behov består i att verksamheten uppnår sina mål, vilket ofta är att generera vinst. De kan ha ställt krav på hur arbetet med informationssäkerhet ska bedrivas eller inte berört frågan. Oavsett huruvida ägarna ställt några krav eller inte så inverkar sannolikt verksamhetens informationssäkerhet på dess förmåga att uppnå sina mål.
 
-Var och en av dessa förutsättningar har någon form av påverkan på hur ni bäst bör utforma informationssäkerheten och dess styrning för organisationen. Analysen identifierar därför vilka de externa förutsättningarna är och hur de kan påverka er.
+---
 
-### Rättsliga krav -- lagar, förordningar och föreskrifter
+- Kunder
+- Verksamhetens kunder drar på något sätt nytta av er verksamhets tjänster och produkter för att uppnå sina mål. Brister i er verksamhets informationssäkerhet kan påverka kundernas förmåga att uppnå sina mål. Detta gäller framför allt om ni tillhandahåller it-relaterade produkter eller tjänster. De kan dock påverkas även om ni tillhandahåller andra produkter och tjänster om era leveranser störs.
 
-Rättsliga krav är de krav som är kopplade till informationssäkerhet, i form av olika författningar som exempelvis lagar, förordningar, myndigheters föreskrifter samt lokal kommunal reglering. Vissa rättsliga krav gäller samtliga organisationer i såväl Sverige som Europa, medan andra endast gäller en viss bransch eller en viss typ av organisation.
+---
 
-Kraven kan i stort delas in i två kategorier:
+- Leverantörer
+- Leverantörerna förser er med det ni behöver för att uppnå era mål. Brister i era leverantörers informationssäkerhet kan påverka deras leveranser och därmed påvera er verksamhets förmåga att uppnå sina mål. Detta utgör en särskild utmaning eftersom ni inte har samma kontroll över levernatörerna som över den egna verksamheten.
 
-1.  Krav som gäller hur informationssäkerhetsarbetet ska utformas
-2.  Krav på hur skydd för vissa typer av information ska utformas.
+---
 
-Efter att ha identifierat vilka rättsliga krav som är viktiga för er ska ni beakta dessa när ni utformar informationssäkerheten i er organisation.
+- Granskare
+- Externa granskares uppgift är att tillse att er organisation efterlever vissa krav avseende er informationssäkerhet. Om ni inte kan bevisa för granskarna att ni efterlever de aktuella kraven kan verksamheten förlora sin certifiering eller drabbas av en administrativ sanktion.
 
-### För att komma igång: analysera övergripande, inte i detalj
+---
 
-I inledningsskedet är det viktigt att inte fastna alltför länge i analyser. För att komma igång med arbetet så kan ni analysera de olika delarna av omvärlden relativt snabbt och på en övergripande nivå. Detta lägger en bra grund för det fortsatta arbetet. Sedan kan ni med fördel återkomma till analysresultaten, uppdatera dem med ny information och vid behov fylla i fler detaljer.
+- Konkurrenter
+- Konkurrenter försöker uppnå fördelar på marknaden i förhållande till er verksamhet. Detta kan ske genom att konkurrenter försöker tillgodogöra sig förtrolig information om er verksamhet. Det kan till och med förekomma att konkurrenter försöker sabotera er verksamhet.
 
-### Dra nytta av tidigare analyser
+---
 
-Ibland har organisationer tidigare genomförda analyser av omvärlden. Var noga med att kolla upp detta, för i sådana fall kan ni dra nytta av och utgå från dessa.
+- Allmänheten
+- Beroende på organisationens verksamhet kan allmänheten påverkas i olika utsträckning och även ha förväntningar på er organisations informationssäkerhet.
 
-Ett typiskt exempel på tidigare analyser är listor på, eller tolkningar av, rättsliga krav som er organisation har gjort i andra sammanhang.
+{% /table %}
 
-### Det finns en vägledning och ett verktyg för varje analysdel
+{% callout title="Angripare omfattas inte" type="warning" %}
+Angripare behandlas i avsnittet [Riskbild](/analysera/riskbild).
+{% /callout %}
 
-Den här vägledningen är indelad tre delar: Externa intressenter, Externa förutsättningar och Rättsliga krav. För varje del finns en beskrivning av hur analysen går till och exempel på hur den ser ut.
+## Externa förutsättningar
 
-Till varje del finns det också ett verktyg i form av en Excelmall som ni kan använda i arbetet. Excelmallen Verktyg: Analysera organisationens omvärld, innehåller exempel och viss automatisering. Var och en av de tre delarna har en egen flik i verktyget. Ni kan använda verktyget både vid själva analystillfället och för dokumentation av analysresultatet.
+Externa förutsättningar är de omständigheter i omvärlden som på något sätt påverkar er organisations informationssäkerhet. Dessa förutsättningar är därför nödvändiga att beakta vid utformning av arbetet med informationssäkerheten.
 
-### Analysernas resultat -- grunden i informationssäkerhetsarbetet
+{% table %}
 
-Denna analys syfte är att vara grunden när ni utformar informationssäkerhetens styrning inom er organisation*.* Mer konkret innebär det att det sammanlagda resultatet från samtliga analyser (av omvärld, organisation, risk, samt gap-analys) ska styra dels hur er organisation väljer att angripa informationssäkerhetsfrågan, dels vilka säkerhetsåtgärder ni behöver för att skydda er information.
+- **Förutsättning**
+- **Påverkan**
 
-Så: utformning av organisation (ansvar och roller) för informationssäkerhet, inklusive policy, riktlinjer, rutiner, processer och åtgärder-- allt detta utgår från dessa analyser.
+---
 
-Om ni vill ha en mer sammanfattande bild av analysresultatet kan ni sammanställa samtliga analysers resultat i ett separat dokument. Ett sådant dokument kan ni sedan använda som grund i ett så kallat "business case" för det systematiska informationssäkerhetsarbetet.
+- Tekniska
+- Den tekniska utvecklingen och utvecklingen inom informationsteknik har stark inverkan på informationssäkerheten, både i form av nya hot och nya lösningar. Detta kan t.ex. vara ökad användning av molntjänster, "containerization", Internet of Things (IoT), nya metoder för autentisering osv.
 
-## 1 Analysera organisationens externa intressenter
+---
 
-Externa intressenter är personer, grupper och organisationer utanför er organisation, som antingen påverkar eller påverkas av hur informationssäkerheten styrs.
+- Sociala
+- Sociala normer bestämmer vad som anses acceptabelt i samhället. Till exempel kan allmänna attityder till övervakning påverka i vilken utsträckning er organisation kan införa vissa säkerhetsåtgärder. Vidare kan de påverka hur engagerade personerna i er organisation kan vara i fråga om att tillgodogöra sig nya kunskaper om informationssäkerhet.
 
-Var och en av dessa intressenter har någon form av påverkan, behov, förväntningar eller krav i relation till informationssäkerheten och dess styrning.
+---
 
-Notera att rättsliga krav hanteras separat i en annan del av omvärldsanalysen (del 3), trots att externa intressenter står bakom de rättsliga kraven. Däremot hanterar vi krav från avtal i denna del.
+- Ekonomiska
+- Ekonomiska omständigheter kan påverka utrymmet för er organisations arbete med dess informationssäkerhet. Detta gäller t.ex. ränteläge, inflation, tillgång och efterfrågan på vissa produkter och tjänster, ändringar i valutakurser osv.
 
-Tabell IA1:1: Externa intressenter och deras påverkan
+---
 
-| Kategori                      | Intressent (exempel)                                                                                                                                                                                                    | Krav, roll eller påverkan                                                                                                                                                                                                                                                                                                                                                                                          |
-| ----------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Ägare:                        | Aktieägare Moderbolag Regeringen (departement)                                                                                                                                                                          | Ägarna kan ha krav på er organisations inriktning, vilket påverkar informationssäkerheten. De har ofta direkta krav på själva arbetet med informationssäkerhet, exempelvis i form av en formulering i ett styrelsebeslut för ett aktiebolag, eller i ett regleringsbrev för en statlig myndighet.                                                                                                                  |
-| Kunder:                       | Kunder Brukare Användare Avnämare Den eller de som konsumerar organisationens produkter eller tjänster                                                                                                                  | Dessa intressenter är orsaken till att er organisation existerar. De kan vara intresserade av informationssäkerheten i en tjänst eller produkt, eller av hur organisationen hanterar deras uppgifter. Vissa organisationer kan även ha anledning att ställa krav på sina kunders informationssäkerhet.                                                                                                             |
-| Leverantörer:                 | Leverantörer Underleverantörer Outsourcingpartner Insourcingpartner Molntjänsteleverantörer Affärspartner Säkerhetsleverantörer                                                                                         | En organisation är beroende av leverantörer för att kunna fungera. Ni kan ibland behöva ställa krav på era leverantörers sätt att arbeta med informationssäkerhet, så att deras leverans är säker. Vissa leverantörer kanske till och med levererar just säkerhetslösningar till er.                                                                                                                               |
-| Granskare:                    | Tillsynsmyndigheter för olika branscher Datainspektionen Riksrevisionen Säkerhetspolisen Finansiella revisorer (med it-revision) Europeiska och internationella institutioner (med tillsyn eller granskande funktioner) | Er organisation granskas av olika intressenter, som i allt större utsträckning har i uppgift att kontrollera hur er informationssäkerhet är upprättad. Era granskare har varierande krav och förväntningar, men ni behöver kunna styrka att ni efterlever olika typer av säkerhetskrav.                                                                                                                            |
-| Konkurrenter:                 | Konkurrenter – som driver en liknande verksamhet, eller som på annat sätt konkurrerar med er organisation                                                                                                               | Ibland kan konkurrenter försöka att ta del av känsliga uppgifter om er organisation, era kunder eller ert säkerhetsarrangemang utan att be om lov för att kunna konkurrera bättre. I värsta fall kan de försöka sabotera för er organisation eller för ert säkerhetsarrangemang. Den ideala utformningen av er informationssäkerhet kan därmed bero på hur era konkurrenter har utformat sin informationssäkerhet. |
-| Allmänhet och media:          | Allmänheten Medborgare Invånare Media som tidningar och TV Internetrelaterad media                                                                                                                                      | Förtroende är centralt för alla organisationer, och allmänheten kan ha uppfattningar om huruvida er informationssäkerhet är bra eller dålig, samt om ni som organisation är pålitliga. Värdet av ert varumärke beror därmed på vad allmänheten anser.                                                                                                                                                              |
-| Övriga:                       | Övriga                                                                                                                                                                                                                  | Denna tabell innehåller endast exempel på kategorier av externa intressenter. Komplettera med eventuella andra externa intressenter av vikt, och beskriv hur de påverkar eller påverkas av er informationssäkerhet och dess utformning.                                                                                                                                                                            |
-| (Angripare, Hotande aktörer:) | Hackers Aktivistgrupper Utpressare                                                                                                                                                                                      | (Dessa intressenter hanteras inte i denna analys. De hanteras separat under Riskanalys.)                                                                                                                                                                                                                                                                                                                           |
-| (Lagstiftare:)                | Europaparlamentet Riksdagen Statliga myndigheter Kommuner                                                                                                                                                               | (Dessa intressenter hanteras inte i denna analys. De hanteras separat under Rättsliga krav.)                                                                                                                                                                                                                                                                                                                       |
+- Miljömässiga
+- Omständigheter som klimat, väderföreteelser, bränder och översvämning kan påverka er organisations informationssäkerhet. Till exempel kan stormar orsaka avbrott och skogsbränder kan störa verksamheten vid ett datacenter.
 
-### Analysera externa intressenter så här:
+{% /table %}
 
-1.  Använd verktyget: Öppna Excelmallen "Analysera organisationens omvärld". Välj sedan fliken som heter "1. Externa Intressenter".
-2.  Identifiera samtliga viktiga externa intressenter: Utgå från tabellen ovan, samt från era egna erfarenheter eller andra källor. Växla gärna perspektiv mellan lokala, regionala, nationella och internationella intressenter för att få en mer komplett bild.
-3.  Diskutera intressenternas roller: Diskutera de externa intressenternas roller, alltså hur de påverkar och påverkas av informationssäkerheten och styrningen av den.
-4.  Identifiera intressenternas krav: Identifiera intressenternas påverkan, behov, förväntningar och krav, exempelvis med hjälp av dokumentgranskning, diskussion, möten, intervjuer eller enkätundersökningar. Dokumentera det ni kommer fram till i verktyget (Excelmallen).
+## Rättsliga krav
 
-## 2. Analysera organisationens externa förutsättningar
+Det finns en växande mängd rättsliga krav avseende informationssäkerhet. De kan avse hur arbetet med informationssäkerheten ska utformas eller vilka åtgärder som ska vidtas.
 
-Externa förutsättningar är de förhållanden i omvärlden (det vill säga utöver externa intressenter) som på något sätt påverkar eller påverkas av informationssäkerhetens styrning och som ni därför behöver ha i åtanke när ni utformar den. Var och en av dessa förutsättningar har med andra ord någon form av inverkan på hur ni bäst bör utforma informationssäkerheten och dess styrning.
+Vilka rättsliga krav er organisation omfattas av beror framför allt på:
 
-Notera att rättsliga krav hanteras separat i en annan del av omvärldsanalysen (del 3), trots att de kan sägas vara externa förutsättningar.
+- er typ av organisation,
+- de sektorer ni bedriver verksamhet i och
+- den informationen som ni hanterar.
 
-Tabell IA1:2: Externa förutsättningar och dess påverkan
+I den här delen av analysen identifieras:
 
-| Extern förutsättning          | Typ av påverkan                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Tekniska förutsättningar:     | Den tekniska utvecklingen och utvecklingen inom informationsteknik har stark inverkan på informationssäkerheten, både i form av nya hot och nya lösningar. Exempel på innovationer inom informationsteknik som kan påverka: Molntjänster ställer nya krav på hur informationssäkerheten kan styras. Virtuell och förstärkt verklighet (VR, AR) där kunder kan ta del av en produkt eller tjänst på helt nytt sätt. Sakernas internet (Internet of Things, IoT) där saker (produkter) är uppkopplade och därmed behöver ha god informationssäkerhet. Nya sätt att identifiera användare (autentisering) som via fingeravtryck, röst, ansiktsform.                                                                                     |
-| Sociala förutsättningar:      | Sociala och kulturella förutsättningar anger vad som anses bra och acceptabelt. Det kan gälla attityder i samhället, folkhälsa och utbildningsnivå, men även den allmänna situationen i samhället. Exempel där sociala förutsättningar kan påverka: Den grad av övervakning och loggning som individer i samhället accepterar. Hur lätt eller svårt det är att nå individerna i ett samhälle med informationen om informationssäkerhet.                                                                                                                                                                                                                                                                                              |
-| Ekonomiska förutsättningar:   | Externa ekonomiska och finansiella förutsättningar påverkar också utrymmet för informationssäkerhet. Kanske särskilt gällande resurser, men det kan även gälla nationalekonomiska faktorer som ränteläge, inflation, efterfrågan på produkter och tjänster, valutakursändringar och liknande. Exempel där externa ekonomiska förutsättningar kan påverka: Ränteläget kan vid investeringsbedömning påverka kostnaden för finansiering av it-säkerhetstekniska lösningar som löper över lång tid, så att de blir mer eller mindre kostnadseffektiva Den allmänna efterfrågan på den typ av produkter eller tjänster som ni tillhandahåller kan stiga, och då medföra att ytterligare resurser behöver satsas på informationssäkerhet. |
-| Politiska förutsättningar:    | I politiskt styrda organisationer är det viktigt att ta med dessa förutsättningar i analysen då de kan påverka er informationssäkerhet och dess utformning. Politiska förutsättningar kan även resultera i rättsliga krav som tas om hand som i den rättsliga delen av analysen.                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| Miljömässiga förutsättningar: | Miljömässiga förutsättningar är klimat, väder, vind, ekologi och hållbarhetsfrågor som kan påverka er informationssäkerhet och dess utformning. Exempel där miljömässiga förutsättningar kan påverka: Om extremt väder förväntas kan detta påverka möjligheten till datakommunikation om ledningar faller ned. Klimatet kan påverka var det är säkrast och mest ekonomiskt att förlägga en hall för it-drift. Brand, översvämning och jordbävning är andra exempel på miljömässiga förutsättningar.                                                                                                                                                                                                                                  |
-| Övriga förutsättningar:       | Denna tabell innehåller endast exempel på kategorier av externa förutsättningar. Komplettera med eventuella andra externa förutsättningar av vikt, och beskriv hur de påverkar eller påverkas av er informationssäkerhet och dess utformning.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| (Rättsliga förutsättningar:)  | (Dessa förutsättningar hanteras inte i denna analys. De hanteras separat under Rättsliga krav.)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+1. de regelverk er verksamhet omfattas av och
+2. vilka rättsliga krav som ställs på denna.
 
-### Analysera externa förutsättningar så här:
+{% callout title="Avtalade krav omfattas inte" type="warning" %}
+Notera att avtalade krav behandlas under [Externa intressenter](#externa-intressenter) ovan.
+{% /callout %}
 
-1.  Använd verktyget: Öppna Excelmallen "Analysera organisationens omvärld". Välj sedan fliken som heter "2. Externa förutsättningar".
-2.  Identifiera vilka externa förutsättningar som finns: Utgå från tabellen ovan, egna erfarenheter eller andra källor för att identifiera samtliga viktiga externa förutsättningar. Växla gärna perspektiv mellan lokala, regionala, nationella och internationella förutsättningar för att få en mer komplett bild.
-3.  Diskutera förutsättningarnas påverkan: Diskutera hur förutsättningarna påverkar och påverkas av informationssäkerheten och styrningen av den.
-4.  Identifiera förutsättningarnas krav: Identifiera förutsättningarnas påverkan, och vad dessa innebär för er informationssäkerhetsstyrning och utformningen av den. Utgå till exempel från dokumentgranskning, diskussion, möten, intervjuer eller enkätundersökningar. Dokumentera det ni kommer fram till i verktyget (Excelmallen).
+### Lagstiftning i urval
+
+Följande regelverk kan vara relevanta för er verksamhet.
+
+{% table %}
+
+- **Regelverk**
+- **Huvuddrag**
+
+---
+
+- [Dataskyddsförordningen](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX%3A32016R0679)
+- Omfattar de som behandlar uppgifter som rör personer vilka är i livet.
+
+---
+
+- [NIS-lagen](https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/lag-20181174-om-informationssakerhet-for_sfs-2018-1174)
+- Omfattar leverantörer av samhällsviktiga tjänster samt leverantörer av digitala tjänster ⚠️ Lagen väntas ersättas av det uppdaterade NIS2-direktivet, se strax nedan.
+
+---
+
+- [NIS2-direktivet](https://www.europarl.europa.eu/doceo/document/TA-9-2022-0383_EN.pdf)
+- Det nya NIS2-direktivet utökar antalet omfattade aktörer och höjer kraven på säkerhetsåtgärder. Ändringarna väntas införas i nationell lagstiftning i slutet av 2024.
+
+---
+
+- [DORA-förordningen](https://www.europarl.europa.eu/doceo/document/TA-9-2022-0381_EN.pdf)
+- EU:s förordning om digital operativ motståndskraft för aktörer i den finansiella sektorn.
+
+---
+
+- [Säkerhetsskyddslagen](https://riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/sakerhetsskyddslag-2018585_sfs-2018-585)
+- Säkerhetsskyddslagen är tillämplig på verksamhet som är av betydelse för Sveriges säkerhet eller omfattas av ett internationellt åtagande om säkerhetsskydd.
+
+---
+
+- Fyll på 🚧
+- 🦺
+
+{% /table %}
+
+{% callout title="Eget ansvar" type="warning" %}
+Förteckningen över lagstiftning ovan är inte komplett.
+{% /callout %}
+
+### Inventering
+
+Dokumentera följande uppgifter avseende relevanta rättsliga krav.
+
+- **ID.** Ange en unik identifierare för kravet.
+
+- **Författning och lagrum.** Ange vilken författning och vilket lagrum som avses.
+
+- **Typ av krav.** Ange om det rättsliga kravet avser säkerhetsåtgärder eller hur arbetet med informationssäkerhet ska bedrivas.
+
+- **Krav i huvuddrag.** Sammanfatta huvuddragen i kravet. Hänvisa till den fullständiga lydelsen.
+
+{% callout title="Ta hjälp vid behov" type="tip" %}
+Det kan vara komplicerat att identifiera den relevanta lagstiftningen. Huruvida ett regelverk är tillämpligt eller inte har typiskt sett stor betydelse för arbetet. Tveka inte på att ta hjälp om behovet finns.
+{% /callout %}
+
+### Planera för efterlevnad
+
+När relevanta rättsliga krav är identifierade är nästa steg att analysera hur ni ska omsätta dessa krav på en övergripande nivå. Denna diskussion kan exempelvis handla om olika typer av säkerhetsåtgärder, eller om hur kraven ska påverka hur informationssäkerheten styrs och organiseras i er organisation.
+
+Vissa rättsliga krav är detaljerade och uttryckliga medan andra är mer övergripande. Kraven kan därför behöva tolkas i olika utsträckning. Ta hjälp av era jurister om ni tvekar.
