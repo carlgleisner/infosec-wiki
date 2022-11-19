@@ -49,7 +49,7 @@ Slutligen kan du öppna [http://localhost:3000](http://localhost:3000) för att 
   - [x] Utforma
   - [x] Använda
   - [x] Följa upp
-- [ ] Bearbeta metodstödet
+- [ ] Bearbeta metodstödet (12% ☑️🦺)
   - [ ] Analysera
   - [ ] Utforma
   - [ ] Använda
